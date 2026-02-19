@@ -1,0 +1,694 @@
+,Date,Compétition,Lieu,Adversaire,Score
+0,Années 2020,Années 2020,Années 2020,Années 2020,Années 2020
+1,2026-01-14,CAN,Neutre,Egypte,1-0
+2,2026-01-09,CAN,Neutre,Mali,1-0
+3,2026-01-03,CAN,Neutre,Soudan,3-1
+4,2025-12-30,CAN,Neutre,Bénin,3-0
+5,2025-12-27,CAN,Neutre,RD Congo,1-1
+6,2025-12-23,CAN,Neutre,Botswana,3-0
+7,2025-11-18,AMC,Neutre,Kenya,8-0
+8,2025-11-15,AMC,Neutre,Brésil,0-2
+9,2025-10-14,QCDM,Domicile,Mauritanie,4-0
+10,2025-10-10,QCDM,Extérieur,Soudan du Sud,5-0
+11,2025-09-09,QCDM,Extérieur,RD Congo,3-2
+12,2025-09-05,QCDM,Domicile,Soudan du Sud,2-0
+13,2025-06-10,AMC,Extérieur,Angleterre,3-1
+14,2025-06-06,AMC,Extérieur,Irlande,1-1
+15,2025-03-25,QCDM,Domicile,Togo,2-0
+16,2025-03-21,QCDM,Extérieur,Soudan,0-0
+17,2024-11-19,QCAN,Domicile,Burundi,2-0
+18,2024-11-14,QCAN,Extérieur,Burkina Faso,1-0
+19,2024-10-15,QCAN,Extérieur,Malawi,1-0
+20,2024-10-11,QCAN,Domicile,Malawi,4-0
+21,2024-09-09,QCAN,Extérieur,Burundi,1-0
+22,2024-09-06,QCAN,Domicile,Burkina Faso,1-1
+23,2024-06-10,QCDM,Extérieur,Mauritanie,1-0
+24,2024-06-06,QCDM,Domicile,RD Congo,1-1
+25,2024-03-26,AMC,Neutre,Bénin,1-0
+26,2024-03-22,AMC,Neutre,Gabon,3-0
+27,2024-01-29,CAN,Neutre,Côte d'Ivoire,1-1
+28,2024-01-23,CAN,Neutre,Guinée,2-0
+29,2024-01-19,CAN,Neutre,Cameroun,3-1
+30,2024-01-15,CAN,Neutre,Gambie,3-0
+31,2024-01-08,AMC,Domicile,Niger,1-0
+32,2023-11-21,QCDM,Extérieur,Togo,0-0
+33,2023-11-18,QCDM,Domicile,Soudan du Sud,4-0
+34,2023-10-16,AMC,Neutre,Cameroun,1-0
+35,2023-09-12,AMC,Domicile,Algérie,0-1
+36,2023-09-09,QCAN,Domicile,Rwanda,1-1
+37,2023-06-20,AMC,Neutre,Brésil,4-2
+38,2023-06-17,QCAN,Extérieur,Bénin,1-1
+39,2023-03-28,QCAN,Extérieur,Mozambique,1-0
+40,2023-03-24,QCAN,Domicile,Mozambique,5-1
+41,2022-12-04,CDM,Neutre,Angleterre,0-3
+42,2022-11-29,CDM,Neutre,Equateur,2-1
+43,2022-11-25,CDM,Neutre,Qatar,3-1
+44,2022-11-21,CDM,Neutre,Pays-Bas,0-2
+45,2022-09-27,AMC,Neutre,Iran,1-1
+46,2022-09-24,AMC,Neutre,Bolivie,2-0
+47,2022-06-07,QCAN,Extérieur,Rwanda,1-0
+48,2022-06-04,QCAN,Domicile,Bénin,3-0
+49,2022-03-29,QCDM,Domicile,Egypte,1-0
+50,2022-03-25,QCDM,Extérieur,Egypte,0-1
+51,2022-02-06,CAN,Neutre,Egypte,0-0
+52,2022-02-02,CAN,Neutre,Burkina Faso,3-1
+53,2022-01-30,CAN,Neutre,Guinée Equatoriale,3-1
+54,2022-01-25,CAN,Neutre,Cap-Vert,2-0
+55,2022-01-18,CAN,Neutre,Malawi,0-0
+56,2022-01-14,CAN,Neutre,Guinée,0-0
+57,2022-01-10,CAN,Neutre,Zimbabwe,1-0
+58,2021-11-14,QCDM,Domicile,Congo,2-0
+59,2021-11-11,QCDM,Extérieur,Togo,1-1
+60,2021-10-12,QCDM,Extérieur,Namibie,3-1
+61,2021-10-09,QCDM,Domicile,Namibie,4-1
+62,2021-09-07,QCDM,Extérieur,Congo,3-1
+63,2021-09-01,QCDM,Domicile,Togo,2-0
+64,2021-06-08,AMC,Domicile,Cap-Vert,2-0
+65,2021-06-05,AMC,Domicile,Zambie,3-1
+66,2021-03-30,QCAN,Domicile,Eswatini,1-1
+67,2021-03-26,QCAN,Extérieur,Congo,0-0
+68,2020-11-15,QCAN,Extérieur,Guinée-Bissau,1-0
+69,2020-11-11,QCAN,Domicile,Guinée-Bissau,2-0
+70,2020-10-09,AMC,Extérieur,Maroc,1-3
+71,Années 2010,Années 2010,Années 2010,Années 2010,Années 2010
+72,2019-11-17,QCAN,Extérieur,Eswatini,4-1
+73,2019-11-13,QCAN,Domicile,Congo,2-0
+74,2019-10-10,AMC,Neutre,Brésil,1-1
+75,2019-07-19,CAN,Neutre,Algérie,0-1
+76,2019-07-14,CAN,Neutre,Tunisie,0-0
+77,2019-07-10,CAN,Neutre,Bénin,1-0
+78,2019-07-05,CAN,Neutre,Ouganda,1-0
+79,2019-07-01,CAN,Neutre,Kenya,3-0
+80,2019-06-27,CAN,Neutre,Algérie,0-1
+81,2019-06-23,CAN,Neutre,Tanzanie,2-0
+82,2019-06-16,AMC,Neutre,Nigeria,1-0
+83,2019-03-26,AMC,Domicile,Mali,2-1
+84,2019-03-23,QCAN,Domicile,Madagascar,2-0
+85,2018-11-17,QCAN,Extérieur,Guinée Equatoriale,1-0
+86,2018-10-16,QCAN,Extérieur,Soudan,1-0
+87,2018-10-13,QCAN,Domicile,Soudan,3-0
+88,2018-09-09,QCAN,Extérieur,Madagascar,2-2
+89,2018-06-28,CDM,Neutre,Colombie,0-1
+90,2018-06-24,CDM,Neutre,Japon,2-2
+91,2018-06-19,CDM,Neutre,Pologne,2-1
+92,2018-06-11,AMC,Neutre,Corée du Sud,2-0
+93,2018-06-08,AMC,Extérieur,Croatie,1-2
+94,2018-05-31,AMC,Extérieur,Luxembourg,0-0
+95,2018-03-27,AMC,Neutre,Bosnie,0-0
+96,2018-03-23,AMC,Neutre,Ouzbékistan,1-1
+97,2017-11-14,QCDM,Domicile,Afrique du Sud,2-1
+98,2017-11-10,QCDM,Extérieur,Afrique du Sud,2-0
+99,2017-10-07,QCDM,Extérieur,Cap-Vert,2-0
+100,2017-09-05,QCDM,Extérieur,Burkina Faso,2-2
+101,2017-09-02,QCDM,Domicile,Burkina Faso,0-0
+102,2017-06-10,QCAN,Domicile,Guinée Equatoriale,3-0
+103,2017-06-05,AMC,Domicile,Ouganda,0-0
+104,2017-03-27,AMC,Neutre,Côte d'Ivoire,1-1
+105,2017-03-23,AMC,Neutre,Nigeria,1-1
+106,2017-01-28,CAN,Neutre,Cameroun,0-0
+107,2017-01-23,CAN,Neutre,Algérie,2-2
+108,2017-01-19,CAN,Neutre,Zimbabwe,2-0
+109,2017-01-15,CAN,Neutre,Tunisie,2-0
+110,2017-01-11,AMC,Extérieur,Congo,2-0
+111,2017-01-08,AMC,Extérieur,Libye,2-0
+112,2016-10-08,QCDM,Domicile,Cap-Vert,2-0
+113,2016-09-03,QCAN,Domicile,Namibie,2-0
+114,2016-06-04,QCAN,Extérieur,Burundi,2-0
+115,2016-05-28,AMC,Extérieur,Rwanda,2-0
+116,2016-03-29,QCAN,Extérieur,Niger,2-1
+117,2016-03-26,QCAN,Domicile,Niger,2-0
+118,2015-11-17,QCDM,Domicile,Madagascar,3-0
+119,2015-11-13,QCDM,Extérieur,Madagascar,2-2
+120,2015-10-13,AMC,Extérieur,Algérie,0-1
+121,2015-09-08,AMC,Extérieur,Afrique du Sud,0-1
+122,2015-09-05,QCAN,Extérieur,Namibie,2-0
+123,2015-06-13,QCAN,Domicile,Burundi,3-1
+124,2015-03-28,AMC,Neutre,Ghana,2-1
+125,2015-01-27,CAN,Neutre,Algérie,0-2
+126,2015-01-23,CAN,Neutre,Afrique du Sud,1-1
+127,2015-01-19,CAN,Neutre,Ghana,2-1
+128,2015-01-13,AMC,Neutre,Guinée,5-2
+129,2015-01-09,AMC,Neutre,Gabon,1-0
+130,2014-11-19,QCAN,Domicile,Botswana,3-0
+131,2014-11-15,QCAN,Extérieur,Egypte,1-0
+132,2014-10-15,QCAN,Extérieur,Tunisie,0-1
+133,2014-10-10,QCAN,Domicile,Tunisie,0-0
+134,2014-09-10,QCAN,Extérieur,Botswana,2-0
+135,2014-09-05,QCAN,Domicile,Egypte,2-0
+136,2014-05-31,AMC,Neutre,Colombie,2-2
+137,2014-05-25,AMC,Neutre,Kosovo,3-1
+138,2014-05-21,AMC,Extérieur,Burkina Faso,1-1
+139,2014-03-05,AMC,Neutre,Mali,1-1
+140,2013-11-16,QCDM,Neutre,Côte d'Ivoire,1-1
+141,2013-10-12,QCDM,Extérieur,Côte d'Ivoire,1-3
+142,2013-09-07,QCDM,Neutre,Ouganda,1-0
+143,2013-08-13,AMC,Neutre,Zambie,1-1
+144,2013-06-16,QCDM,Extérieur,Liberia,2-0
+145,2013-06-08,QCDM,Extérieur,Angola,1-1
+146,2013-03-23,QCDM,Neutre,Angola,1-1
+147,2013-02-05,AMC,Neutre,Guinée,1-1
+148,2012-11-14,AMC,Extérieur,Niger,1-1
+149,2012-10-13,QCAN,Domicile,Côte d'Ivoire,0-2
+150,2012-09-08,QCAN,Extérieur,Côte d'Ivoire,2-4
+151,2012-06-09,QCDM,Extérieur,Ouganda,1-1
+152,2012-06-02,QCDM,Domicile,Liberia,3-1
+153,2012-05-25,AMC,Extérieur,Maroc,1-0
+154,2012-02-29,AMC,Extérieur,Afrique du Sud,0-0
+155,2012-01-29,CAN,Neutre,Libye,1-2
+156,2012-01-25,CAN,Neutre,Guinée Equatoriale,1-2
+157,2012-01-21,CAN,Neutre,Zambie,1-2
+158,2012-01-15,AMC,Domicile,Kenya,1-0
+159,2012-01-12,AMC,Domicile,Soudan,1-0
+160,2011-11-11,AMC,Neutre,Guinée,4-1
+161,2011-10-09,QCAN,Extérieur,Ile Maurice,2-0
+162,2011-09-11,QCAN,Domicile,RD Congo,2-0
+163,2011-08-11,AMC,Domicile,Maroc,0-2
+164,2011-06-04,QCAN,Extérieur,Cameroun,0-0
+165,2011-03-26,QCAN,Domicile,Cameroun,1-0
+166,2011-02-09,AMC,Domicile,Guinée,3-0
+167,2010-11-17,AMC,Neutre,Gabon,2-1
+168,2010-10-09,QCAN,Domicile,Ile Maurice,7-0
+169,2010-09-05,QCAN,Extérieur,RD Congo,4-2
+170,2010-08-11,AMC,Domicile,Cap-Vert,1-0
+171,2010-05-27,AMC,Extérieur,Danemark,0-2
+172,2010-03-03,AMC,Extérieur,Grèce,2-0
+173,Années 2000,Années 2000,Années 2000,Années 2000,Années 2000
+174,2009-10-14,AMC,Extérieur,Corée du Sud,0-2
+175,2009-09-05,AMC,Neutre,Angola,1-1
+176,2009-08-11,AMC,Neutre,RD Congo,2-1
+177,2009-04-01,AMC,Extérieur,Iran,1-1
+178,2009-03-27,AMC,Extérieur,Oman,0-2
+179,2008-10-11,QCDM,Domicile,Gambie,1-1
+180,2008-09-05,QCDM,Extérieur,Algérie,2-3
+181,2008-08-20,AMC,Extérieur,Libye,0-0
+182,2008-06-21,QCDM,Domicile,Liberia,3-1
+183,2008-06-15,QCDM,Extérieur,Liberia,2-2
+184,2008-06-08,QCDM,Extérieur,Gambie,0-0
+185,2008-05-31,QCDM,Domicile,Algérie,1-0
+186,2008-01-31,CAN,Neutre,Afrique du Sud,1-1
+187,2008-01-27,CAN,Neutre,Angola,1-3
+188,2008-01-23,CAN,Neutre,Tunisie,2-2
+189,2008-01-16,AMC,Extérieur,Bénin,2-1
+190,2008-01-12,AMC,Domicile,Namibie,3-1
+191,2007-11-20,AMC,Neutre,Maroc,0-3
+192,2007-11-16,AMC,Neutre,Mali,3-2
+193,2007-10-13,AMC,Neutre,Guinée,3-1
+194,2007-09-07,QCAN,Domicile,Burkina Faso,5-1
+195,2007-08-20,AMC,Neutre,Ghana,1-1
+196,2007-06-17,QCAN,Extérieur,Mozambique,0-0
+197,2007-06-09,AMC,Neutre,Malawi,3-2
+198,2007-06-02,QCAN,Extérieur,Tanzanie,1-1
+199,2007-03-23,QCAN,Domicile,Tanzanie,4-0
+200,2007-02-06,AMC,Neutre,Bénin,2-1
+201,2006-10-07,QCAN,Extérieur,Burkina Faso,0-1
+202,2006-09-02,QCAN,Domicile,Mozambique,2-0
+203,2006-08-16,AMC,Neutre,Côte d'Ivoire,1-0
+204,2006-05-23,AMC,Extérieur,Corée du Sud,1-1
+205,2006-03-01,AMC,Neutre,Norvège,2-1
+206,2006-02-09,CAN,Neutre,Nigeria,0-1
+207,2006-02-07,CAN,Neutre,Egypte,1-2
+208,2006-02-03,CAN,Neutre,Guinée,3-2
+209,2006-01-31,CAN,Neutre,Nigeria,1-2
+210,2006-01-27,CAN,Neutre,Ghana,0-1
+211,2006-01-23,CAN,Neutre,Zimbabwe,2-0
+212,2006-01-13,AMC,Neutre,RD Congo,0-0
+213,2005-11-12,AMC,Extérieur,Afrique du Sud,3-2
+214,2005-10-08,QCDM,Domicile,Mali,3-0
+215,2005-09-03,QCDM,Extérieur,Zambie,1-0
+216,2005-08-17,AMC,Neutre,Ghana,0-0
+217,2005-06-18,QCDM,Domicile,Togo,2-2
+218,2005-06-05,QCDM,Extérieur,Congo,0-0
+219,2005-03-26,QCDM,Domicile,Liberia,6-1
+220,2005-02-09,AMC,Neutre,Cameroun,0-1
+221,2004-11-17,AMC,Neutre,Algérie,2-1
+222,2004-10-10,QCDM,Extérieur,Liberia,3-0
+223,2004-09-05,QCDM,Extérieur,Mali,2-2
+224,2004-08-18,AMC,Neutre,Côte d'Ivoire,1-2
+225,2004-07-03,QCDM,Domicile,Zambie,1-0
+226,2004-06-20,QCDM,Extérieur,Togo,1-3
+227,2004-06-13,AMC,Domicile,Cap-Vert,3-1
+228,2004-06-05,QCDM,Domicile,Congo,2-0
+229,2004-05-29,AMC,Neutre,Guinée,1-1
+230,2004-02-07,CAN,Neutre,Tunisie,0-1
+231,2004-02-02,CAN,Neutre,Mali,1-1
+232,2004-01-30,CAN,Neutre,Kenya,3-0
+233,2004-01-26,CAN,Neutre,Burkina Faso,0-0
+234,2004-01-18,AMC,Domicile,Afrique du Sud,2-1
+235,2003-11-15,AMC,Neutre,Côte d'Ivoire,1-0
+236,2003-10-10,AMC,Extérieur,Egypte,0-1
+237,2003-09-10,AMC,Extérieur,Japon,1-0
+238,2003-06-14,QCAN,Domicile,Lesotho,3-0
+239,2003-06-07,QCAN,Domicile,Gambie,3-1
+240,2003-05-31,AMC,Domicile,Cap-Vert,2-1
+241,2003-04-30,AMC,Extérieur,Tunisie,0-1
+242,2003-03-30,QCAN,Extérieur,Gambie,0-0
+243,2003-02-12,AMC,Extérieur,Maroc,0-1
+244,2002-11-19,AMC,Extérieur,Afrique du Sud,1-1
+245,2002-10-12,AMC,Neutre,Nigeria,2-2
+246,2002-09-08,QCAN,Extérieur,Lesotho,1-0
+247,2002-06-22,CDM,Neutre,Turquie,0-1
+248,2002-06-16,CDM,Neutre,Suède,2-1
+249,2002-06-11,CDM,Neutre,Uruguay,3-3
+250,2002-06-06,CDM,Neutre,Danemark,1-1
+251,2002-05-31,CDM,Neutre,France,1-0
+252,2002-05-23,AMC,Neutre,Equateur,1-0
+253,2002-05-14,AMC,Extérieur,Arabie Saoudite,2-3
+254,2002-03-27,AMC,Domicile,Bolivie,2-1
+255,2002-02-10,CAN,Neutre,Cameroun,0-0
+256,2002-02-07,CAN,Neutre,Nigeria,2-1
+257,2002-02-04,CAN,Neutre,RD Congo,2-0
+258,2002-01-31,CAN,Neutre,Tunisie,0-0
+259,2002-01-26,CAN,Neutre,Zambie,1-0
+260,2002-01-20,CAN,Neutre,Egypte,1-0
+261,2001-12-30,AMC,Domicile,Algérie,1-0
+262,2001-12-26,AMC,Domicile,Burkina Faso,2-4
+263,2001-11-08,AMC,Extérieur,Corée du Sud,1-0
+264,2001-10-04,AMC,Extérieur,Japon,2-0
+265,2001-07-21,QCDM,Extérieur,Namibie,5-0
+266,2001-07-14,QCDM,Domicile,Maroc,1-0
+267,2001-06-17,QCAN,Extérieur,Togo,0-1
+268,2001-06-03,AMC,Domicile,Gambie,0-0
+269,2001-05-06,QCDM,Extérieur,Egypte,0-1
+270,2001-04-21,QCDM,Domicile,Algérie,3-0
+271,2001-03-24,QCAN,Domicile,Ouganda,3-0
+272,2001-03-10,QCDM,Domicile,Namibie,4-0
+273,2001-02-24,QCDM,Extérieur,Maroc,0-0
+274,2001-01-13,QCAN,Extérieur,Ouganda,1-1
+275,2000-09-24,QCAN,Domicile,Togo,0-0
+276,2000-07-09,QCDM,Domicile,Egypte,0-0
+277,2000-06-16,QCDM,Extérieur,Algérie,1-1
+278,2000-06-11,AMC,Extérieur,Tunisie,1-4
+279,2000-06-06,AMC,Domicile,Zambie,0-0
+280,2000-06-04,AMC,Domicile,Zambie,0-0
+281,2000-05-14,Cabral,Neutre,Cap-Vert,0-1
+282,2000-05-11,Cabral,Neutre,Mali,2-2
+283,2000-05-08,Cabral,Neutre,Cap-Vert,2-2
+284,2000-05-06,Cabral,Neutre,Gambie,1-1
+285,2000-05-04,Cabral,Neutre,Sierra Leone,3-0
+286,2000-04-23,QCDM,Domicile,Bénin,1-0
+287,2000-04-09,QCDM,Extérieur,Bénin,1-1
+288,2000-02-07,CAN,Neutre,Nigeria,1-2
+289,2000-02-01,CAN,Neutre,Zambie,2-2
+290,2000-01-28,CAN,Neutre,Egypte,0-1
+291,2000-01-25,CAN,Neutre,Burkina Faso,3-1
+292,2000-01-13,AMC,Domicile,Cameroun,0-0
+293,Années 1990,Années 1990,Années 1990,Années 1990,Années 1990
+294,1999-12-21,AMC,Extérieur,Maroc,0-0
+295,1999-12-12,AMC,Domicile,Gambie,3-0
+296,1999-11-20,AMC,Domicile,Côte d'Ivoire,3-0
+297,1999-08-20,QCAN,Extérieur,Erythrée,2-0
+298,1999-08-08,QCAN,Domicile,Zimbabwe,2-0
+299,1999-07-30,QCAN,Extérieur,Zimbabwe,1-2
+300,1999-07-18,QCAN,Domicile,Erythrée,6-2
+301,1999-06-19,QCAN,Domicile,Burundi,1-0
+302,1999-06-06,QCAN,Extérieur,Burkina Faso,2-2
+303,1999-06-01,AMC,Extérieur,Mali,1-1
+304,1999-05-16,AMC,Extérieur,Libye,1-2
+305,1999-02-28,QCAN,Domicile,Nigeria,1-1
+306,1999-01-23,QCAN,Domicile,Burkina Faso,1-1
+307,1999-01-13,AMC,Domicile,Guinée,1-0
+308,1999-01-10,AMC,Domicile,Guinée,1-0
+309,1998-12-13,QCAN,Extérieur,Burundi,0-1
+310,1998-09-17,AMC,Extérieur,Arabie Saoudite,2-3
+311,1998-09-02,AMC,Extérieur,Maroc,0-2
+312,1998-08-31,AMC,Extérieur,Burkina Faso,0-0
+313,1998-07-26,AMC,Domicile,Mali,3-1
+314,1998-07-19,AMC,Domicile,Cap-Vert,1-0
+315,1997-12-07,Cabral,Neutre,Mali,0-1
+316,1997-12-05,Cabral,Neutre,Guinée,2-1
+317,1997-12-02,Cabral,Neutre,Gambie,0-0
+318,1997-11-30,Cabral,Neutre,Cap-Vert,2-0
+319,1997-11-28,Cabral,Neutre,Mauritanie,1-1
+320,1997-11-19,AMC,Domicile,Mali,1-2
+321,1997-07-27,QCAN,Extérieur,Maroc,0-3
+322,1997-07-13,QCAN,Extérieur,Egypte,0-2
+323,1997-06-22,QCAN,Domicile,Ethiopie,3-0
+324,1997-06-06,AMC,Domicile,Algérie,0-0
+325,1997-05-08,AMC,Extérieur,Côte d'Ivoire,1-4
+326,1997-03-29,AMC,Extérieur,Sierra Leone,1-2
+327,1997-02-22,QCAN,Domicile,Maroc,0-0
+328,1997-02-16,AMC,Domicile,Mali,1-1
+329,1997-01-25,QCAN,Domicile,Egypte,0-0
+330,1997-01-12,AMC,Extérieur,Mali,0-0
+331,1996-10-06,QCAN,Extérieur,Ethiopie,2-1
+332,1996-09-15,AMC,Domicile,Mali,1-0
+333,1996-06-15,QCDM,Domicile,Togo,1-1
+334,1996-06-02,QCDM,Extérieur,Togo,1-2
+335,1996-05-26,AMC,Extérieur,Tunisie,0-2
+336,1996-05-17,AMC,Extérieur,Mauritanie,0-0
+337,1996-04-21,AMC,Extérieur,Gambie,2-1
+338,1995-11-22,Cabral,Neutre,Sierra Leone,1-1
+339,1995-11-20,Cabral,Neutre,Guinée,3-0
+340,1995-11-18,Cabral,Neutre,Guinée-Bissau,1-2
+341,1995-07-30,QCAN,Domicile,Liberia,3-0
+342,1995-07-15,QCAN,Extérieur,Tunisie,0-4
+343,1995-04-22,QCAN,Domicile,Togo,5-1
+344,1995-04-07,QCAN,Extérieur,Mauritanie,1-0
+345,1995-03-01,AMC,Extérieur,Maroc,0-2
+346,1995-01-22,QCAN,Extérieur,Liberia,1-1
+347,1995-01-07,QCAN,Domicile,Tunisie,0-0
+348,1994-11-13,QCAN,Extérieur,Guinée-Bissau,4-1
+349,1994-10-28,AMC,Extérieur,Emirats Arabes Unis,2-3
+350,1994-10-25,AMC,Extérieur,Oman,1-2
+351,1994-10-23,AMC,Extérieur,Oman,1-0
+352,1994-10-16,QCAN,Extérieur,Togo,0-2
+353,1994-10-09,AMC,Domicile,Niger,3-1
+354,1994-09-03,QCAN,Extérieur,Mauritanie,0-0
+355,1994-04-03,CAN,Neutre,Zambie,0-1
+356,1994-03-31,CAN,Neutre,Ghana,0-1
+357,1994-03-29,CAN,Neutre,Guinée,2-1
+358,1994-02-27,AMC,Extérieur,Gabon,0-0
+359,1994-02-07,AMC,Extérieur,Gambie,0-0
+360,1994-01-30,AMC,Domicile,Mali,0-0
+361,1994-01-23,AMC,Extérieur,Mali,0-1
+362,1993-12-05,Cabral,Neutre,Sierra Leone,0-2
+363,1993-12-03,Cabral,Neutre,Gambie,2-0
+364,1993-12-01,Cabral,Neutre,Guinée-Bissau,0-0
+365,1993-11-29,Cabral,Neutre,Mauritanie,4-0
+366,1993-11-27,Cabral,Neutre,Mali,0-1
+367,1993-09-26,QCDM,Extérieur,Zambie,0-4
+368,1993-09-19,AMC,Extérieur,Zimbabwe,0-2
+369,1993-08-07,QCDM,Domicile,Zambie,0-0
+370,1993-07-25,QCAN,Extérieur,Algérie,0-4
+371,1993-07-17,QCDM,Domicile,Maroc,1-3
+372,1993-07-11,QCAN,Domicile,Sierra Leone,1-1
+373,1993-06-20,AMC,Extérieur,Mali,2-0
+374,1993-04-18,QCDM,Extérieur,Maroc,0-1
+375,1993-04-11,QCAN,Extérieur,Guinée-Bissau,3-0
+376,1993-02-27,QCDM,Domicile,Gabon,1-0
+377,1993-01-30,QCDM,Domicile,Mozambique,6-1
+378,1993-01-23,QCAN,Extérieur,Togo,1-1
+379,1993-01-12,AMC,Domicile,France,1-3
+380,1993-01-10,QCAN,Domicile,Algérie,1-2
+381,1992-12-19,QCDM,Extérieur,Gabon,2-3
+382,1992-11-19,AMC,Extérieur,Emirats Arabes Unis,2-2
+383,1992-11-17,AMC,Extérieur,Emirats Arabes Unis,1-1
+384,1992-11-08,QCAN,Extérieur,Sierra Leone,0-2
+385,1992-10-25,QCDM,Extérieur,Mozambique,1-0
+386,1992-08-30,QCAN,Domicile,Guinée-Bissau,3-0
+387,1992-08-16,QCAN,Domicile,Togo,2-0
+388,1992-01-19,CAN,Neutre,Cameroun,0-1
+389,1992-01-16,CAN,Neutre,Kenya,3-0
+390,1992-01-12,CAN,Neutre,Nigeria,1-2
+391,1991-12-20,AMC,Extérieur,Juventus,1-2
+392,1991-12-17,AMC,Domicile,Algérie,1-3
+393,1991-12-02,Cabral,Neutre,Cap-Vert,1-0
+394,1991-11-30,Cabral,Neutre,Gambie,2-0
+395,1991-11-27,Cabral,Neutre,Cap-Vert,0-0
+396,1991-11-24,Cabral,Neutre,Guinée-Bissau,4-0
+397,1991-11-10,AMC,Domicile,Erevan,4-1
+398,1991-11-05,AMC,Extérieur,Luton,0-1
+399,1991-11-02,CEDEAO,Neutre,Côte d'Ivoire,0-1
+400,1991-10-31,CEDEAO,Neutre,Ghana,3-2
+401,1991-06-09,QCEDEAO,Extérieur,Côte d'Ivoire,0-2
+402,1991-05-05,QCEDEAO,Domicile,Côte d'Ivoire,0-0
+403,1991-02-17,AMC,Neutre,Algérie,2-2
+404,1991-02-15,AMC,Neutre,Côte d'Ivoire,0-0
+405,1990-12-19,AMC,Extérieur,Maroc,0-0
+406,1990-12-17,AMC,Extérieur,Algérie,0-1
+407,1990-12-12,AMC,Extérieur,Maroc,0-0
+408,1990-03-15,CAN,Neutre,Zambie,0-1
+409,1990-03-12,CAN,Neutre,Algérie,1-2
+410,1990-03-09,CAN,Neutre,Zambie,0-0
+411,1990-03-06,CAN,Neutre,Cameroun,2-0
+412,1990-03-03,CAN,Neutre,Kenya,0-0
+413,1990-01-31,AMC,Extérieur,Avignon,2-1
+414,1990-01-28,CEDEAO,Neutre,Liberia,1-0
+415,1990-01-27,AMC,Extérieur,Malmo,1-2
+416,1990-01-12,AMC,Domicile,Bahia,0-2
+417,Années 1980,Années 1980,Années 1980,Années 1980,Années 1980
+418,1989-12-31,AMC,Domicile,Algérie,0-0
+419,1989-12-24,AMC,Domicile,Sierra Leone,1-0
+420,1989-11-26,AMC,Extérieur,Congo,0-0
+421,1989-11-21,AMC,Domicile,Centrafrique,3-0
+422,1989-07-30,QCAN,Extérieur,Tunisie,1-0
+423,1989-07-16,QCAN,Domicile,Tunisie,3-0
+424,1989-05-30,Cabral,Neutre,Cap-Vert,1-2
+425,1989-05-27,Cabral,Neutre,Mali,2-2
+426,1989-05-25,Cabral,Neutre,Guinée-Bissau,0-0
+427,1989-04-01,AMC,Domicile,Maroc,2-1
+428,1989-01-31,AMC,Domicile,RD Congo,2-1
+429,1989-01-29,AMC,Domicile,RD Congo,1-1
+430,1988-11-18,AMC,Domicile,Angola,2-1
+431,1988-11-17,AMC,Domicile,Cap-Vert,1-0
+432,1988-05-07,Cabral,Neutre,Sierra Leone,2-1
+433,1988-05-05,Cabral,Neutre,Mali,1-1
+434,1988-05-02,Cabral,Neutre,Sierra Leone,2-2
+435,1988-04-30,Cabral,Neutre,Guinée-Bissau,1-1
+436,1988-04-28,Cabral,Neutre,Gambie,4-0
+437,1987-12-22,CEDEAO,Neutre,Burkina Faso,1-0
+438,1987-12-19,CEDEAO,Neutre,Côte d'Ivoire,0-1
+439,1987-08-08,JA,Neutre,Tunisie,1-0
+440,1987-08-06,JA,Neutre,Côte d'Ivoire,0-1
+441,1987-08-04,JA,Neutre,Malawi,0-2
+442,1987-08-02,JA,Neutre,Egypte,0-1
+443,1987-07-19,QCAN,Extérieur,RD Congo,0-0
+444,1987-07-11,QJO,Domicile,Ghana,0-1
+445,1987-07-05,QCAN,Domicile,RD Congo,0-0
+446,1987-06-28,QJO,Extérieur,Ghana,0-2
+447,1987-05-30,AMC,Extérieur,Guyane,3-0
+448,1987-05-27,AMC,Extérieur,Japon,2-2
+449,1987-04-12,QCAN,Extérieur,Guinée,0-0
+450,1987-03-29,QCAN,Domicile,Guinée,4-0
+451,1987-03-01,Cabral,Neutre,Guinée,0-1
+452,1987-02-25,Cabral,Neutre,Cap-Vert,2-0
+453,1987-02-23,Cabral,Neutre,Sierra Leone,0-1
+454,1986-08-13,AMC,Domicile,Gabon,1-0
+455,1986-03-13,CAN,Neutre,Côte d'Ivoire,0-1
+456,1986-03-10,CAN,Neutre,Mozambique,2-0
+457,1986-03-07,CAN,Neutre,Egypte,1-0
+458,1986-02-10,Cabral,Neutre,Sierra Leone,3-1
+459,1986-02-08,Cabral,Neutre,Gambie,1-0
+460,1986-02-05,Cabral,Neutre,Mali,1-0
+461,1986-02-01,Cabral,Neutre,Guinée,2-1
+462,1986-01-22,AMC,Extérieur,Gabon,1-0
+463,1985-12-29,CEDEAO,Domicile,Côte d'Ivoire,2-0
+464,1985-12-25,CEDEAO,Domicile,Guinée,3-1
+465,1985-12-17,AMC,Extérieur,Corée du Sud,2-1
+466,1985-09-01,QCAN,Domicile,Zimbabwe,3-0
+467,1985-08-18,QCAN,Extérieur,Zimbabwe,0-1
+468,1985-05-10,AMC,Extérieur,Mauritanie,0-0
+469,1985-04-14,QCAN,Domicile,Togo,1-1
+470,1985-03-31,QCAN,Extérieur,Togo,1-0
+471,1985-02-22,Cabral,Neutre,Gambie,1-0
+472,1985-02-19,Cabral,Neutre,Cap-Vert,1-0
+473,1985-02-16,Cabral,Neutre,Mali,2-2
+474,1985-02-14,Cabral,Neutre,Mauritanie,2-0
+475,1985-02-12,Cabral,Neutre,Guinée,2-0
+476,1984-07-15,QCDM,Domicile,Angola,1-0
+477,1984-07-01,QCDM,Extérieur,Angola,0-1
+478,1984-06-23,AMC,Extérieur,Maroc,1-2
+479,1984-02-19,Cabral,Neutre,Sierra Leone,0-0
+480,1984-02-15,Cabral,Neutre,Gambie,1-0
+481,1984-02-13,Cabral,Neutre,Mauritanie,6-0
+482,1984-02-11,Cabral,Neutre,Mali,0-1
+483,1984-02-09,Cabral,Neutre,Guinée-Bissau,3-2
+484,1984-02-05,AMC,Extérieur,Côte d'Ivoire,3-4
+485,1984-02-02,AMC,Extérieur,Mali,1-1
+486,1984-01-31,AMC,Extérieur,Côte d'Ivoire,0-1
+487,1984-01-29,AMC,Extérieur,Liberia,0-0
+488,1984-01-18,AMC,Domicile,Guinée,1-0
+489,1984-01-04,AMC,Neutre,Mauritanie,2-0
+490,1984-01-03,AMC,Neutre,Gambie,2-2
+491,1984-01-02,AMC,Neutre,Sierra Leone,0-2
+492,1983-11-19,QCEDEAO,Domicile,Nigeria,0-1
+493,1983-11-15,QCEDEAO,Extérieur,Nigeria,0-1
+494,1983-09-25,QJO,Extérieur,Maroc,0-1
+495,1983-08-28,QCAN,Extérieur,Algérie,0-2
+496,1983-08-14,QCAN,Domicile,Algérie,1-1
+497,1983-07-29,Cabral,Neutre,Guinée-Bissau,3-0
+498,1983-07-27,Cabral,Neutre,Mali,2-1
+499,1983-07-24,Cabral,Neutre,Guinée,1-1
+500,1983-07-23,Cabral,Neutre,Gambie,2-1
+501,1983-07-20,Cabral,Neutre,Guinée-Bissau,1-1
+502,1983-06-12,QJO,Extérieur,Bénin,2-0
+503,1983-04-24,QCAN,Domicile,Libye,1-0
+504,1983-04-08,QCAN,Extérieur,Libye,1-2
+505,1983-03-29,QJO,Domicile,Bénin,2-0
+506,1983-03-09,AMC,Domicile,Maroc,1-0
+507,1983-02-06,QCEDEAO,Domicile,Niger,2-0
+508,1983-02-01,AMC,Domicile,Guinée,1-0
+509,1983-01-23,QCEDEAO,Extérieur,Niger,0-2
+510,1982-11-28,QCAN,Domicile,Niger,1-0
+511,1982-11-14,QCAN,Extérieur,Niger,0-0
+512,1982-10-27,AMC,Domicile,Togo,1-2
+513,1982-08-20,AMC,Neutre,Ghana,2-2
+514,1982-08-19,AMC,Neutre,Corée du Sud,1-1
+515,1982-08-17,AMC,Neutre,Santa Catarina,0-2
+516,1982-08-13,AMC,Neutre,Malaisie,0-1
+517,1982-08-11,AMC,Neutre,Indonésie,2-2
+518,1982-08-09,AMC,Neutre,Emirats Arabes Unis,3-1
+519,1982-08-06,AMC,Neutre,Corée du Sud,2-0
+520,1982-05-12,AMC,Domicile,Maroc,1-2
+521,1982-05-05,AMC,Extérieur,Guinée,1-1
+522,1982-05-04,AMC,Extérieur,Ghana,0-0
+523,1982-05-01,AMC,Extérieur,Cameroun,1-2
+524,1982-02-19,Cabral,Neutre,Guinée,0-3
+525,1982-02-17,Cabral,Neutre,Mali,1-0
+526,1982-02-15,Cabral,Neutre,Sierra Leone,2-0
+527,1982-02-13,Cabral,Neutre,Guinée-Bissau,1-0
+528,1982-02-11,Cabral,Neutre,Guinée,1-1
+529,1982-02-02,AMC,Extérieur,Sion,2-0
+530,1982-01-31,AMC,Domicile,Bénin,1-0
+531,1982-01-24,AMC,Extérieur,Burkina Faso,0-0
+532,1981-11-01,AMC,Domicile,Maroc,2-0
+533,1981-04-26,QCAN,Domicile,Tunisie,0-0
+534,1981-04-12,QCAN,Extérieur,Tunisie,0-1
+535,1981-04-06,AMC,Extérieur,Algérie,1-3
+536,1981-04-03,AMC,Extérieur,Algérie,0-2
+537,1981-03-25,AMC,Domicile,Guinée,0-1
+538,1981-02-12,Cabral,Neutre,Cap-Vert,5-1
+539,1981-02-10,Cabral,Neutre,Guinée,0-1
+540,1981-02-05,Cabral,Neutre,Guinée-Bissau,1-0
+541,1981-02-03,Cabral,Neutre,Cap-Vert,1-0
+542,1980-11-30,QCAN,Extérieur,Sierra Leone,2-1
+543,1980-11-17,QCAN,Domicile,Sierra Leone,2-0
+544,1980-11-09,AMC,Domicile,Mauritanie,3-0
+545,1980-07-06,QCDM,Extérieur,Maroc,0-0
+546,1980-07-02,AMC,Extérieur,Mauritanie,3-1
+547,1980-06-22,QCDM,Domicile,Maroc,0-1
+548,1980-05-01,AMC,Domicile,Guinée,1-0
+549,1980-04-05,AMC,Domicile,Tunisie,0-2
+550,1980-02-25,AMC,Extérieur,Maroc,2-3
+551,1980-02-18,Cabral,Neutre,Gambie,1-0
+552,1980-02-16,Cabral,Neutre,Guinée,2-1
+553,1980-02-14,Cabral,Neutre,Mauritanie,2-1
+554,1980-02-10,Cabral,Neutre,Mali,0-1
+555,Années 1970,Années 1970,Années 1970,Années 1970,Années 1970
+556,1979-12-26,AMC,Extérieur,Tunisie,1-3
+557,1979-11-03,AMC,Extérieur,Sierra Leone,0-1
+558,1979-09-29,AMC,Domicile,Nigeria,0-2
+559,1979-04-29,QJO,Domicile,Maroc,1-0
+560,1979-04-15,QJO,Extérieur,Maroc,0-1
+561,1979-03-25,AMC,Extérieur,Mali,0-1
+562,1979-03-10,AMC,Domicile,Mali,2-1
+563,1979-02-03,AMC,Neutre,Togo,0-1
+564,1979-02-01,AMC,Extérieur,Liberia,1-1
+565,1979-01-30,AMC,Neutre,Guinée,1-1
+566,1979-01-14,Cabral,Neutre,Mali,1-0
+567,1979-01-13,Cabral,Neutre,Guinée,3-1
+568,1979-01-11,Cabral,Neutre,Guinée-Bissau,2-0
+569,1979-01-09,Cabral,Neutre,Cap-Vert,1-0
+570,1977-06-25,QCAN,Extérieur,Nigeria,0-3
+571,1977-06-11,QCAN,Domicile,Nigeria,3-1
+572,1977-05-27,AMC,Domicile,Maroc,2-3
+573,1977-05-05,AMC,Extérieur,Algérie,0-2
+574,1977-03-27,QCAN,Extérieur,Togo,1-0
+575,1977-03-21,AMC,Domicile,Vegle Boldklub,1-0
+576,1977-03-13,QCAN,Domicile,Togo,2-1
+577,1977-03-05,AMC,Domicile,Guinée,1-0
+578,1977-02-02,AMC,Domicile,Danemark,2-3
+579,1976-11-02,QCDM,Domicile,Togo,1-1
+580,1976-10-18,QCDM,Extérieur,Togo,0-1
+581,1976-03-28,QJO,Extérieur,Ghana,1-2
+582,1976-03-21,AMC,Extérieur,Côte d'Ivoire,1-2
+583,1976-03-15,QJO,Domicile,Ghana,0-0
+584,1976-01-16,AMC,Neutre,Guinée,2-2
+585,1976-01-15,AMC,Neutre,Mauritanie,4-1
+586,1975-12-14,QJO,Extérieur,RD Congo,0-2
+587,1975-11-30,QJO,Domicile,RD Congo,3-1
+588,1975-11-03,AMC,Domicile,Mali,2-1
+589,1975-06-01,QJO,Domicile,Togo,1-0
+590,1975-05-21,QJO,Extérieur,Togo,1-1
+591,1975-04-25,AMC,Domicile,Nigeria,1-0
+592,1975-04-23,AMC,Domicile,Côte d'Ivoire,1-0
+593,1975-04-13,QCAN,Domicile,Maroc,2-1
+594,1975-03-30,QCAN,Extérieur,Maroc,0-4
+595,1975-03-23,AMC,Extérieur,Algérie,1-3
+596,1975-02-22,AMC,Extérieur,Nigeria,1-1
+597,1975-02-16,AMC,Extérieur,Mali,1-2
+598,1975-01-02,AMC,Domicile,Nigeria,0-1
+599,1974-07-14,AMC,Extérieur,Burkina Faso,1-3
+600,1973-04-29,QCAN,Domicile,Ghana,1-0
+601,1973-04-15,QCAN,Extérieur,Ghana,2-3
+602,1973-02-18,AMC,Neutre,Liberia,2-0
+603,1973-02-01,AMC,Neutre,Gambie,1-2
+604,1972-12-03,QCDM,Domicile,Maroc,1-2
+605,1972-11-29,AMC,Domicile,Chine,0-0
+606,1972-11-19,QCDM,Extérieur,Maroc,0-0
+607,1972-10-08,AMC,Domicile,Gambie,7-1
+608,1972-10-01,AMC,Domicile,Guinée,2-3
+609,1972-09-28,QCAN,Domicile,Mauritanie,10-1
+610,1972-09-10,AMC,Domicile,Côte d'Ivoire,1-2
+611,1972-07-17,AMC,Domicile,Maroc,1-3
+612,1972-05-28,QJO,Domicile,Ghana,2-0
+613,1972-05-19,QJO,Extérieur,Cameroun,2-3
+614,1972-05-14,QJO,Neutre,Togo,0-0
+615,1972-05-08,QJO,Extérieur,Ghana,1-0
+616,1972-05-05,QJO,Domicile,Cameroun,0-0
+617,1972-04-30,QJO,Extérieur,Togo,3-1
+618,1972-04-23,QJO,Domicile,Cameroun,1-1
+619,1972-01-09,AMC,Domicile,Congo,0-2
+620,1971-12-19,AMC,Domicile,Mali,4-1
+621,1971-07-25,AMC,Domicile,Sierra Leone,2-1
+622,1971-04-18,QJO,Domicile,Nigeria,2-1
+623,1971-04-03,QJO,Extérieur,Nigeria,1-1
+624,1971-03-07,AMC,Extérieur,Cameroun,2-1
+625,1971-03-04,AMC,Extérieur,Cameroun,1-1
+626,1971-01-16,AMC,Domicile,Allemagne,2-1
+627,1970-12-06,AMC,Domicile,Togo,5-0
+628,1970-11-29,QCAN,Domicile,Guinée,0-0
+629,1970-11-15,QCAN,Extérieur,Guinée,0-1
+630,1970-10-25,AMC,Extérieur,Togo,0-3
+631,1970-10-18,AMC,Extérieur,Côte d'Ivoire,1-0
+632,1970-10-11,AMC,Extérieur,Sierra Leone,0-1
+633,1970-05-17,AMC,Extérieur,Guinée,0-4
+634,1970-05-14,AMC,Extérieur,Guinée,1-3
+635,1970-01-11,AMC,Domicile,Côte d'Ivoire,0-2
+636,Années 1960,Années 1960,Années 1960,Années 1960,Années 1960
+637,1969-10-26,QCAN,Domicile,Guinée,1-1
+638,1969-10-12,QCAN,Extérieur,Guinée,3-4
+639,1969-02-18,QCDM,Neutre,Maroc,0-2
+640,1969-01-26,AMC,Extérieur,RD Congo,0-4
+641,1969-01-24,AMC,Extérieur,Cameroun,3-2
+642,1969-01-05,QCDM,Domicile,Maroc,2-1
+643,1968-12-01,AMC,Extérieur,Ghana,0-2
+644,1968-11-03,QCDM,Extérieur,Maroc,0-1
+645,1968-03-17,AMC,Extérieur,Mali,2-0
+646,1968-02-18,AMC,Domicile,Mali,1-1
+647,1968-01-16,CAN,Neutre,RD Congo,1-2
+648,1968-01-14,CAN,Neutre,Congo,2-1
+649,1968-01-12,CAN,Neutre,Ghana,2-2
+650,1967-12-16,AMC,Domicile,Bakou,0-2
+651,1967-12-10,AMC,Domicile,Congo,1-0
+652,1967-10-22,QCAN,Domicile,Guinée,2-1
+653,1967-07-02,QCAN,Domicile,Liberia,4-1
+654,1967-04-09,QCAN,Extérieur,Liberia,1-1
+655,1967-03-19,QCAN,Domicile,Guinée,4-1
+656,1967-03-11,AMC,Domicile,Cameroun,2-0
+657,1967-03-08,AMC,Domicile,Cameroun,0-1
+658,1967-02-20,QCAN,Extérieur,Guinée,0-3
+659,1966-03-06,AMC,Extérieur,Guinée,0-5
+660,1965-11-21,CAN,Neutre,Côte d'Ivoire,0-1
+661,1965-11-20,CAN,Neutre,Ethiopie,5-1
+662,1965-11-14,CAN,Neutre,Tunisie,0-0
+663,1965-06-02,AMC,Domicile,Togo,2-0
+664,1965-05-05,QCAN,Domicile,Mali,3-1
+665,1965-04-18,QCAN,Extérieur,Mali,2-0
+666,1965-03-29,QCAN,Extérieur,Guinée,1-3
+667,1965-03-14,QJA,Extérieur,Mali,0-4
+668,1965-03-07,QJA,Domicile,Mali,3-0
+669,1965-02-24,QCAN,Domicile,Guinée,2-0
+670,1965-02-10,AMC,Domicile,Ferencvaros,1-2
+671,1965-01-13,AMC,Domicile,RD Congo,1-1
+672,1964-11-25,AMC,Domicile,Dynamo Minsk,3-4
+673,1964-04-29,AMC,Domicile,Peñarol,4-5
+674,1964-01-01,AMC,Extérieur,Congo,3-1
+675,1964-01-01,AMC,Extérieur,RD Congo,0-2
+676,1963-12-15,AMC,Domicile,Guinée,1-1
+677,1963-12-05,AMC,Domicile,Hongrie,3-8
+678,1963-11-21,AMC,Domicile,Ethiopie,1-2
+679,1963-04-20,JA,Neutre,Tunisie,1-1
+680,1963-04-18,JA,Neutre,France,2-0
+681,1963-04-16,JA,Neutre,Niger,3-1
+682,1963-04-14,JA,Neutre,Nigeria,5-1
+683,1963-04-12,JA,Neutre,Cameroun,1-0
+684,1963-02-27,AMC,Neutre,Nigeria,0-4
+685,1963-02-24,AMC,Neutre,Mali,1-3
+686,1961-12-31,JA,Neutre,Bénin,3-4
+687,1961-12-29,JA,Neutre,Côte d'Ivoire,1-1
+688,1961-12-27,JA,Neutre,Cameroun,4-0
+689,1961-12-25,JA,Neutre,Gabon,3-2
+690,1961-12-02,AMC,Extérieur,Gambie,2-1
+691,1961-11-19,AMC,Domicile,Gambie,2-3
+692,1961-11-05,AMC,Extérieur,Gambie,5-3

@@ -1,0 +1,18 @@
+{
+  "total_players": 673,
+  "scraping_date": "2026-01-16 22:38:29",
+  "players_by_position_fr": {
+    "GK": 64,
+    "DEF": 199,
+    "MIL": 217,
+    "ATT": 192,
+    "": 1
+  },
+  "players_by_position_en": {
+    "GK": 64,
+    "Defender": 199,
+    "Midfielder": 217,
+    "Forward": 192,
+    "": 1
+  }
+}
