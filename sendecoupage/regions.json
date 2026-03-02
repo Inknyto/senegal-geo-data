@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "message": "Succès",
+  "data": [
+    {
+      "id": 1,
+      "name": "Dakar",
+      "code": "DK"
+    },
+    {
+      "id": 2,
+      "name": "Diourbel",
+      "code": "DB"
+    },
+    {
+      "id": 3,
+      "name": "Fatick",
+      "code": "FK"
+    },
+    {
+      "id": 4,
+      "name": "Kaffrine",
+      "code": "KF"
+    },
+    {
+      "id": 5,
+      "name": "Kaolack",
+      "code": "KL"
+    },
+    {
+      "id": 6,
+      "name": "Kolda",
+      "code": "KO"
+    },
+    {
+      "id": 7,
+      "name": "Kédougou",
+      "code": "KD"
+    },
+    {
+      "id": 8,
+      "name": "Louga",
+      "code": "LG"
+    },
+    {
+      "id": 9,
+      "name": "Matam",
+      "code": "MT"
+    },
+    {
+      "id": 10,
+      "name": "Saint-Louis",
+      "code": "SL"
+    },
+    {
+      "id": 11,
+      "name": "Sédhiou",
+      "code": "SD"
+    },
+    {
+      "id": 12,
+      "name": "Tambacounda",
+      "code": "TC"
+    },
+    {
+      "id": 13,
+      "name": "Thiés",
+      "code": "TH"
+    },
+    {
+      "id": 14,
+      "name": "Ziguinchor",
+      "code": "ZG"
+    }
+  ]
+}

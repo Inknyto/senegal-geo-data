@@ -1,0 +1,4398 @@
+{
+  "success": true,
+  "message": "Succès",
+  "data": [
+    {
+      "id": 544,
+      "name": "Adeane",
+      "departement_id": 46,
+      "lat": 12.7167,
+      "lon": -15.7833,
+      "elevation": 15
+    },
+    {
+      "id": 357,
+      "name": "Aere Lao",
+      "departement_id": 32,
+      "lat": 16.15,
+      "lon": -14.5333,
+      "elevation": 18
+    },
+    {
+      "id": 284,
+      "name": "Affe Djolof",
+      "departement_id": 26,
+      "lat": 15.2333,
+      "lon": -14.9833,
+      "elevation": 35
+    },
+    {
+      "id": 332,
+      "name": "Agnam Civol",
+      "departement_id": 29,
+      "lat": 15.6333,
+      "lon": -13.65,
+      "elevation": 25
+    },
+    {
+      "id": 320,
+      "name": "Aouré",
+      "departement_id": 28,
+      "lat": 15.4333,
+      "lon": -13.6833,
+      "elevation": 25
+    },
+    {
+      "id": 54,
+      "name": "Baba Garage",
+      "departement_id": 6,
+      "lat": 14.8667,
+      "lon": -15.85,
+      "elevation": 40
+    },
+    {
+      "id": 265,
+      "name": "Badegne Ouolof",
+      "departement_id": 25,
+      "lat": 15.2167,
+      "lon": -16.2833,
+      "elevation": 28
+    },
+    {
+      "id": 222,
+      "name": "Badion",
+      "departement_id": 20,
+      "lat": 12.6333,
+      "lon": -14.4,
+      "elevation": 45
+    },
+    {
+      "id": 207,
+      "name": "Bagadadji",
+      "departement_id": 19,
+      "lat": 12.8833,
+      "lon": -14.95,
+      "elevation": 25
+    },
+    {
+      "id": 397,
+      "name": "Baghere",
+      "departement_id": 35,
+      "lat": 12.6833,
+      "lon": -15.4667,
+      "elevation": 25
+    },
+    {
+      "id": 426,
+      "name": "Bakel",
+      "departement_id": 37,
+      "lat": 14.9,
+      "lon": -12.4667,
+      "elevation": 48
+    },
+    {
+      "id": 438,
+      "name": "Bala",
+      "departement_id": 38,
+      "lat": 14.5333,
+      "lon": -12.8833,
+      "elevation": 65
+    },
+    {
+      "id": 521,
+      "name": "Balinghore",
+      "departement_id": 44,
+      "lat": 12.9333,
+      "lon": -16.4,
+      "elevation": 15
+    },
+    {
+      "id": 427,
+      "name": "Ballou",
+      "departement_id": 37,
+      "lat": 15.0167,
+      "lon": -12.3833,
+      "elevation": 50
+    },
+    {
+      "id": 453,
+      "name": "Bamba Thialene",
+      "departement_id": 39,
+      "lat": 13.9167,
+      "lon": -14.1167,
+      "elevation": 45
+    },
+    {
+      "id": 412,
+      "name": "Bambaly",
+      "departement_id": 36,
+      "lat": 12.7333,
+      "lon": -15.8167,
+      "elevation": 18
+    },
+    {
+      "id": 55,
+      "name": "Bambey",
+      "departement_id": 6,
+      "lat": 14.7,
+      "lon": -16.45,
+      "elevation": 35
+    },
+    {
+      "id": 43,
+      "name": "Bambilor",
+      "departement_id": 5,
+      "lat": 14.8,
+      "lon": -17.27,
+      "elevation": 25
+    },
+    {
+      "id": 247,
+      "name": "Bandafassi",
+      "departement_id": 22,
+      "lat": 12.5333,
+      "lon": -12.3167,
+      "elevation": 350
+    },
+    {
+      "id": 439,
+      "name": "Bani Israel",
+      "departement_id": 38,
+      "lat": 14.4667,
+      "lon": -12.6667,
+      "elevation": 68
+    },
+    {
+      "id": 44,
+      "name": "Bargny",
+      "departement_id": 5,
+      "lat": 14.6933,
+      "lon": -17.2283,
+      "elevation": 5
+    },
+    {
+      "id": 285,
+      "name": "Barkedji",
+      "departement_id": 26,
+      "lat": 15.2833,
+      "lon": -14.8667,
+      "elevation": 38
+    },
+    {
+      "id": 111,
+      "name": "Bassoul",
+      "departement_id": 10,
+      "lat": 14.05,
+      "lon": -16.6,
+      "elevation": 5
+    },
+    {
+      "id": 545,
+      "name": "Batoupa Camaracounda",
+      "departement_id": 46,
+      "lat": 12.6833,
+      "lon": -15.9167,
+      "elevation": 15
+    },
+    {
+      "id": 428,
+      "name": "Bele",
+      "departement_id": 37,
+      "lat": 15.1833,
+      "lon": -12.1333,
+      "elevation": 55
+    },
+    {
+      "id": 259,
+      "name": "Bembou",
+      "departement_id": 24,
+      "lat": 12.7,
+      "lon": -11.7833,
+      "elevation": 160
+    },
+    {
+      "id": 413,
+      "name": "Bemet Bidjini",
+      "departement_id": 36,
+      "lat": 12.8,
+      "lon": -15.9333,
+      "elevation": 16
+    },
+    {
+      "id": 223,
+      "name": "Bignarabe",
+      "departement_id": 20,
+      "lat": 12.7333,
+      "lon": -14.35,
+      "elevation": 45
+    },
+    {
+      "id": 522,
+      "name": "Bignona",
+      "departement_id": 44,
+      "lat": 12.8167,
+      "lon": -16.2167,
+      "elevation": 18
+    },
+    {
+      "id": 134,
+      "name": "Birkilane",
+      "departement_id": 12,
+      "lat": 14.0667,
+      "lon": -15.8333,
+      "elevation": 35
+    },
+    {
+      "id": 1,
+      "name": "Biscuterie",
+      "departement_id": 1,
+      "lat": 14.7203,
+      "lon": -17.4617,
+      "elevation": 20
+    },
+    {
+      "id": 358,
+      "name": "Bode Lao",
+      "departement_id": 32,
+      "lat": 16.2167,
+      "lon": -14.6833,
+      "elevation": 16
+    },
+    {
+      "id": 384,
+      "name": "Boghal",
+      "departement_id": 34,
+      "lat": 12.9,
+      "lon": -15.75,
+      "elevation": 18
+    },
+    {
+      "id": 359,
+      "name": "Boke Dialloube",
+      "departement_id": 32,
+      "lat": 16.0333,
+      "lon": -14.5167,
+      "elevation": 18
+    },
+    {
+      "id": 346,
+      "name": "Bokhol",
+      "departement_id": 31,
+      "lat": 16.5167,
+      "lon": -15.35,
+      "elevation": 10
+    },
+    {
+      "id": 333,
+      "name": "Bokidiawé",
+      "departement_id": 29,
+      "lat": 15.55,
+      "lon": -13.85,
+      "elevation": 22
+    },
+    {
+      "id": 321,
+      "name": "Bokiladji",
+      "departement_id": 28,
+      "lat": 15.2833,
+      "lon": -13.5833,
+      "elevation": 28
+    },
+    {
+      "id": 385,
+      "name": "Bona",
+      "departement_id": 34,
+      "lat": 12.8833,
+      "lon": -15.8333,
+      "elevation": 18
+    },
+    {
+      "id": 233,
+      "name": "Bonconto",
+      "departement_id": 21,
+      "lat": 13.05,
+      "lon": -14.5667,
+      "elevation": 35
+    },
+    {
+      "id": 286,
+      "name": "Boulal",
+      "departement_id": 26,
+      "lat": 15.3333,
+      "lon": -14.75,
+      "elevation": 40
+    },
+    {
+      "id": 142,
+      "name": "Boulel",
+      "departement_id": 13,
+      "lat": 14.0667,
+      "lon": -14.9667,
+      "elevation": 40
+    },
+    {
+      "id": 386,
+      "name": "Bounkiling",
+      "departement_id": 34,
+      "lat": 12.8833,
+      "lon": -15.6833,
+      "elevation": 20
+    },
+    {
+      "id": 224,
+      "name": "Bourouco",
+      "departement_id": 20,
+      "lat": 12.6,
+      "lon": -14.5,
+      "elevation": 40
+    },
+    {
+      "id": 440,
+      "name": "Boutoucoufara",
+      "departement_id": 38,
+      "lat": 14.4,
+      "lon": -13,
+      "elevation": 60
+    },
+    {
+      "id": 441,
+      "name": "Boynguel Bamba",
+      "departement_id": 38,
+      "lat": 14.6167,
+      "lon": -13.0667,
+      "elevation": 58
+    },
+    {
+      "id": 2,
+      "name": "Cambérène",
+      "departement_id": 1,
+      "lat": 14.7617,
+      "lon": -17.4286,
+      "elevation": 10
+    },
+    {
+      "id": 503,
+      "name": "Cherif Lô",
+      "departement_id": 43,
+      "lat": 15.0167,
+      "lon": -16.8833,
+      "elevation": 30
+    },
+    {
+      "id": 303,
+      "name": "Coki",
+      "departement_id": 27,
+      "lat": 15.2333,
+      "lon": -16.3667,
+      "elevation": 28
+    },
+    {
+      "id": 128,
+      "name": "Colobane",
+      "departement_id": 11,
+      "lat": 14.4333,
+      "lon": -16.3833,
+      "elevation": 20
+    },
+    {
+      "id": 523,
+      "name": "Coubalan",
+      "departement_id": 44,
+      "lat": 12.7667,
+      "lon": -16.3,
+      "elevation": 15
+    },
+    {
+      "id": 208,
+      "name": "Coumbacara",
+      "departement_id": 19,
+      "lat": 12.7833,
+      "lon": -14.65,
+      "elevation": 28
+    },
+    {
+      "id": 192,
+      "name": "Dabaly",
+      "departement_id": 18,
+      "lat": 14,
+      "lon": -15.5333,
+      "elevation": 30
+    },
+    {
+      "id": 334,
+      "name": "Dabia",
+      "departement_id": 29,
+      "lat": 15.45,
+      "lon": -13.9333,
+      "elevation": 20
+    },
+    {
+      "id": 209,
+      "name": "Dabo",
+      "departement_id": 19,
+      "lat": 12.9167,
+      "lon": -14.8333,
+      "elevation": 25
+    },
+    {
+      "id": 347,
+      "name": "Dagana",
+      "departement_id": 31,
+      "lat": 16.5167,
+      "lon": -15.5,
+      "elevation": 8
+    },
+    {
+      "id": 287,
+      "name": "Dahra",
+      "departement_id": 26,
+      "lat": 15.35,
+      "lon": -15.4833,
+      "elevation": 35
+    },
+    {
+      "id": 3,
+      "name": "Dakar Plateau",
+      "departement_id": 1,
+      "lat": 14.6928,
+      "lon": -17.4467,
+      "elevation": 25
+    },
+    {
+      "id": 31,
+      "name": "Dalifort",
+      "departement_id": 4,
+      "lat": 14.76,
+      "lon": -17.3933,
+      "elevation": 8
+    },
+    {
+      "id": 78,
+      "name": "Dalla Ngabou",
+      "departement_id": 8,
+      "lat": 14.95,
+      "lon": -15.95,
+      "elevation": 45
+    },
+    {
+      "id": 254,
+      "name": "Dar salam",
+      "departement_id": 23,
+      "lat": 12.6333,
+      "lon": -12.5833,
+      "elevation": 200
+    },
+    {
+      "id": 166,
+      "name": "Dara Mboss",
+      "departement_id": 16,
+      "lat": 14.0667,
+      "lon": -16.0333,
+      "elevation": 25
+    },
+    {
+      "id": 504,
+      "name": "Darou Khoudoss",
+      "departement_id": 43,
+      "lat": 15.1,
+      "lon": -16.8167,
+      "elevation": 28
+    },
+    {
+      "id": 266,
+      "name": "Darou Marnane",
+      "departement_id": 25,
+      "lat": 15.3333,
+      "lon": -16.25,
+      "elevation": 30
+    },
+    {
+      "id": 160,
+      "name": "Darou Minam",
+      "departement_id": 15,
+      "lat": 14.15,
+      "lon": -15.65,
+      "elevation": 38
+    },
+    {
+      "id": 267,
+      "name": "Darou Mouhty",
+      "departement_id": 25,
+      "lat": 15.4333,
+      "lon": -16.35,
+      "elevation": 32
+    },
+    {
+      "id": 79,
+      "name": "Darou Nahim",
+      "departement_id": 8,
+      "lat": 14.9167,
+      "lon": -15.9167,
+      "elevation": 43
+    },
+    {
+      "id": 193,
+      "name": "Darou Salam",
+      "departement_id": 18,
+      "lat": 14.1333,
+      "lon": -15.5,
+      "elevation": 30
+    },
+    {
+      "id": 80,
+      "name": "Darou Salam Typ",
+      "departement_id": 8,
+      "lat": 14.8833,
+      "lon": -15.8833,
+      "elevation": 42
+    },
+    {
+      "id": 288,
+      "name": "Dealy",
+      "departement_id": 26,
+      "lat": 15.1833,
+      "lon": -15.1167,
+      "elevation": 35
+    },
+    {
+      "id": 322,
+      "name": "Dembancane",
+      "departement_id": 28,
+      "lat": 15.35,
+      "lon": -13.45,
+      "elevation": 30
+    },
+    {
+      "id": 360,
+      "name": "Demette",
+      "departement_id": 32,
+      "lat": 16.2833,
+      "lon": -14.9333,
+      "elevation": 14
+    },
+    {
+      "id": 81,
+      "name": "Dendeye Gouy-Gui",
+      "departement_id": 8,
+      "lat": 14.9333,
+      "lon": -16,
+      "elevation": 45
+    },
+    {
+      "id": 387,
+      "name": "Diacounda",
+      "departement_id": 34,
+      "lat": 12.9667,
+      "lon": -15.5,
+      "elevation": 22
+    },
+    {
+      "id": 112,
+      "name": "Diagane Barka",
+      "departement_id": 10,
+      "lat": 14.15,
+      "lon": -16.35,
+      "elevation": 10
+    },
+    {
+      "id": 94,
+      "name": "Diakhao",
+      "departement_id": 9,
+      "lat": 14.2333,
+      "lon": -16.5,
+      "elevation": 12
+    },
+    {
+      "id": 463,
+      "name": "Dialacoto",
+      "departement_id": 40,
+      "lat": 13.3,
+      "lon": -13.4167,
+      "elevation": 80
+    },
+    {
+      "id": 210,
+      "name": "Dialamberé",
+      "departement_id": 19,
+      "lat": 12.75,
+      "lon": -14.8,
+      "elevation": 28
+    },
+    {
+      "id": 348,
+      "name": "Diama",
+      "departement_id": 31,
+      "lat": 16.2333,
+      "lon": -16.2833,
+      "elevation": 5
+    },
+    {
+      "id": 143,
+      "name": "Diamagadio",
+      "departement_id": 13,
+      "lat": 14.1667,
+      "lon": -15.5833,
+      "elevation": 38
+    },
+    {
+      "id": 135,
+      "name": "Diamal",
+      "departement_id": 12,
+      "lat": 14.0167,
+      "lon": -15.75,
+      "elevation": 33
+    },
+    {
+      "id": 388,
+      "name": "Diambati",
+      "departement_id": 34,
+      "lat": 12.95,
+      "lon": -15.6167,
+      "elevation": 20
+    },
+    {
+      "id": 32,
+      "name": "Diameguene Sicap Mbao",
+      "departement_id": 4,
+      "lat": 14.765,
+      "lon": -17.365,
+      "elevation": 8
+    },
+    {
+      "id": 45,
+      "name": "Diamniadio",
+      "departement_id": 5,
+      "lat": 14.73,
+      "lon": -17.18,
+      "elevation": 30
+    },
+    {
+      "id": 442,
+      "name": "Dianke Makha",
+      "departement_id": 38,
+      "lat": 14.6333,
+      "lon": -12.9333,
+      "elevation": 60
+    },
+    {
+      "id": 161,
+      "name": "Dianke Souf",
+      "departement_id": 15,
+      "lat": 14.2167,
+      "lon": -15.5167,
+      "elevation": 40
+    },
+    {
+      "id": 414,
+      "name": "Diannah Ba",
+      "departement_id": 36,
+      "lat": 12.75,
+      "lon": -15.7667,
+      "elevation": 18
+    },
+    {
+      "id": 415,
+      "name": "Diannah Malary",
+      "departement_id": 36,
+      "lat": 12.7167,
+      "lon": -15.75,
+      "elevation": 18
+    },
+    {
+      "id": 234,
+      "name": "Diaobé Kabendou",
+      "departement_id": 21,
+      "lat": 12.9167,
+      "lon": -14.3333,
+      "elevation": 50
+    },
+    {
+      "id": 95,
+      "name": "Diaoule",
+      "departement_id": 9,
+      "lat": 14.2,
+      "lon": -16.55,
+      "elevation": 10
+    },
+    {
+      "id": 389,
+      "name": "Diaroume",
+      "departement_id": 34,
+      "lat": 12.85,
+      "lon": -15.7167,
+      "elevation": 18
+    },
+    {
+      "id": 96,
+      "name": "Diarrere",
+      "departement_id": 9,
+      "lat": 14.3,
+      "lon": -16.4,
+      "elevation": 15
+    },
+    {
+      "id": 472,
+      "name": "Diass",
+      "departement_id": 41,
+      "lat": 14.7833,
+      "lon": -17.0333,
+      "elevation": 60
+    },
+    {
+      "id": 398,
+      "name": "Diattacounda",
+      "departement_id": 35,
+      "lat": 12.75,
+      "lon": -15.2333,
+      "elevation": 28
+    },
+    {
+      "id": 429,
+      "name": "Diawara",
+      "departement_id": 37,
+      "lat": 14.8167,
+      "lon": -12.2833,
+      "elevation": 52
+    },
+    {
+      "id": 524,
+      "name": "Diegoune",
+      "departement_id": 44,
+      "lat": 12.8833,
+      "lon": -16.3,
+      "elevation": 16
+    },
+    {
+      "id": 539,
+      "name": "Diembéring",
+      "departement_id": 45,
+      "lat": 12.4833,
+      "lon": -16.75,
+      "elevation": 8
+    },
+    {
+      "id": 488,
+      "name": "Diender",
+      "departement_id": 42,
+      "lat": 14.8333,
+      "lon": -17.1,
+      "elevation": 50
+    },
+    {
+      "id": 416,
+      "name": "Diendé",
+      "departement_id": 36,
+      "lat": 12.8333,
+      "lon": -15.8833,
+      "elevation": 16
+    },
+    {
+      "id": 4,
+      "name": "Dieuppeul Derklé",
+      "departement_id": 1,
+      "lat": 14.7128,
+      "lon": -17.4578,
+      "elevation": 18
+    },
+    {
+      "id": 248,
+      "name": "Dimboli",
+      "departement_id": 22,
+      "lat": 12.4167,
+      "lon": -12.25,
+      "elevation": 300
+    },
+    {
+      "id": 249,
+      "name": "Dindéfélo",
+      "departement_id": 22,
+      "lat": 12.3833,
+      "lon": -12.2833,
+      "elevation": 650
+    },
+    {
+      "id": 56,
+      "name": "Dinguiraye",
+      "departement_id": 6,
+      "lat": 14.6167,
+      "lon": -16.75,
+      "elevation": 30
+    },
+    {
+      "id": 225,
+      "name": "Dinguiraye",
+      "departement_id": 20,
+      "lat": 14.6167,
+      "lon": -16.75,
+      "elevation": 30
+    },
+    {
+      "id": 97,
+      "name": "Dioffior",
+      "departement_id": 9,
+      "lat": 14.1667,
+      "lon": -16.6,
+      "elevation": 8
+    },
+    {
+      "id": 144,
+      "name": "Diokoul Belbouck",
+      "departement_id": 13,
+      "lat": 14.2,
+      "lon": -15.45,
+      "elevation": 40
+    },
+    {
+      "id": 268,
+      "name": "Diokoul Diawrigne",
+      "departement_id": 25,
+      "lat": 15.3167,
+      "lon": -16.3167,
+      "elevation": 30
+    },
+    {
+      "id": 113,
+      "name": "Dionewar",
+      "departement_id": 10,
+      "lat": 13.9333,
+      "lon": -16.7,
+      "elevation": 3
+    },
+    {
+      "id": 114,
+      "name": "Diossong",
+      "departement_id": 10,
+      "lat": 14,
+      "lon": -16.5167,
+      "elevation": 5
+    },
+    {
+      "id": 399,
+      "name": "Diouboudou",
+      "departement_id": 35,
+      "lat": 12.6167,
+      "lon": -15.3167,
+      "elevation": 25
+    },
+    {
+      "id": 211,
+      "name": "Dioulacolon",
+      "departement_id": 19,
+      "lat": 12.8,
+      "lon": -14.75,
+      "elevation": 28
+    },
+    {
+      "id": 525,
+      "name": "Diouloulou",
+      "departement_id": 44,
+      "lat": 12.85,
+      "lon": -16.5,
+      "elevation": 12
+    },
+    {
+      "id": 66,
+      "name": "Diourbel",
+      "departement_id": 7,
+      "lat": 14.65,
+      "lon": -16.2333,
+      "elevation": 35
+    },
+    {
+      "id": 98,
+      "name": "Diouroup",
+      "departement_id": 9,
+      "lat": 14.25,
+      "lon": -16.55,
+      "elevation": 10
+    },
+    {
+      "id": 417,
+      "name": "Djibabouya",
+      "departement_id": 36,
+      "lat": 12.7667,
+      "lon": -15.85,
+      "elevation": 16
+    },
+    {
+      "id": 400,
+      "name": "Djibanar",
+      "departement_id": 35,
+      "lat": 12.6667,
+      "lon": -15.3667,
+      "elevation": 25
+    },
+    {
+      "id": 526,
+      "name": "Djibidione",
+      "departement_id": 44,
+      "lat": 12.8167,
+      "lon": -16.4667,
+      "elevation": 12
+    },
+    {
+      "id": 33,
+      "name": "Djidah Thiaroye Kao",
+      "departement_id": 4,
+      "lat": 14.7533,
+      "lon": -17.39,
+      "elevation": 8
+    },
+    {
+      "id": 99,
+      "name": "Djilasse",
+      "departement_id": 9,
+      "lat": 14.1833,
+      "lon": -16.5667,
+      "elevation": 8
+    },
+    {
+      "id": 115,
+      "name": "Djilor",
+      "departement_id": 10,
+      "lat": 14.1833,
+      "lon": -16.4,
+      "elevation": 10
+    },
+    {
+      "id": 527,
+      "name": "Djinaky",
+      "departement_id": 44,
+      "lat": 12.7333,
+      "lon": -16.2,
+      "elevation": 18
+    },
+    {
+      "id": 390,
+      "name": "Djinany",
+      "departement_id": 34,
+      "lat": 12.9167,
+      "lon": -15.5667,
+      "elevation": 22
+    },
+    {
+      "id": 418,
+      "name": "Djiredji",
+      "departement_id": 36,
+      "lat": 12.6833,
+      "lon": -15.7833,
+      "elevation": 18
+    },
+    {
+      "id": 116,
+      "name": "Djirnda",
+      "departement_id": 10,
+      "lat": 14.0333,
+      "lon": -16.5,
+      "elevation": 3
+    },
+    {
+      "id": 361,
+      "name": "Dodel",
+      "departement_id": 32,
+      "lat": 16.2,
+      "lon": -15.0833,
+      "elevation": 12
+    },
+    {
+      "id": 289,
+      "name": "Dodji",
+      "departement_id": 26,
+      "lat": 15.3167,
+      "lon": -15,
+      "elevation": 38
+    },
+    {
+      "id": 443,
+      "name": "Dougue",
+      "departement_id": 38,
+      "lat": 14.5167,
+      "lon": -12.9167,
+      "elevation": 62
+    },
+    {
+      "id": 362,
+      "name": "Doumba Lao",
+      "departement_id": 32,
+      "lat": 16.1833,
+      "lon": -14.4333,
+      "elevation": 18
+    },
+    {
+      "id": 178,
+      "name": "Dya",
+      "departement_id": 17,
+      "lat": 14.2167,
+      "lon": -16.2167,
+      "elevation": 18
+    },
+    {
+      "id": 546,
+      "name": "Enampore",
+      "departement_id": 46,
+      "lat": 12.6333,
+      "lon": -16.4833,
+      "elevation": 12
+    },
+    {
+      "id": 255,
+      "name": "Ethiolo",
+      "departement_id": 23,
+      "lat": 12.6167,
+      "lon": -12.65,
+      "elevation": 180
+    },
+    {
+      "id": 226,
+      "name": "Fafacourou",
+      "departement_id": 20,
+      "lat": 12.4833,
+      "lon": -14.5167,
+      "elevation": 40
+    },
+    {
+      "id": 363,
+      "name": "Fanaye",
+      "departement_id": 32,
+      "lat": 16.4167,
+      "lon": -15.1333,
+      "elevation": 10
+    },
+    {
+      "id": 489,
+      "name": "Fandene",
+      "departement_id": 42,
+      "lat": 14.75,
+      "lon": -16.95,
+      "elevation": 55
+    },
+    {
+      "id": 5,
+      "name": "Fann Point E Amité",
+      "departement_id": 1,
+      "lat": 14.6967,
+      "lon": -17.4667,
+      "elevation": 15
+    },
+    {
+      "id": 391,
+      "name": "Faoune",
+      "departement_id": 34,
+      "lat": 12.8667,
+      "lon": -15.8,
+      "elevation": 18
+    },
+    {
+      "id": 167,
+      "name": "Fass",
+      "departement_id": 16,
+      "lat": 14.1167,
+      "lon": -16.15,
+      "elevation": 22
+    },
+    {
+      "id": 379,
+      "name": "Fass Ngom",
+      "departement_id": 33,
+      "lat": 16.0333,
+      "lon": -16.3833,
+      "elevation": 5
+    },
+    {
+      "id": 151,
+      "name": "Fass Thiékene",
+      "departement_id": 14,
+      "lat": 13.8833,
+      "lon": -14.9167,
+      "elevation": 45
+    },
+    {
+      "id": 100,
+      "name": "Fatick",
+      "departement_id": 9,
+      "lat": 14.3333,
+      "lon": -16.4167,
+      "elevation": 15
+    },
+    {
+      "id": 101,
+      "name": "Fimela",
+      "departement_id": 9,
+      "lat": 14.2,
+      "lon": -16.7,
+      "elevation": 8
+    },
+    {
+      "id": 473,
+      "name": "Fissel",
+      "departement_id": 41,
+      "lat": 14.3667,
+      "lon": -16.6167,
+      "elevation": 25
+    },
+    {
+      "id": 250,
+      "name": "Fongolimbi",
+      "departement_id": 22,
+      "lat": 12.5667,
+      "lon": -12.4333,
+      "elevation": 280
+    },
+    {
+      "id": 117,
+      "name": "Foundiougne",
+      "departement_id": 10,
+      "lat": 14.1333,
+      "lon": -16.4667,
+      "elevation": 8
+    },
+    {
+      "id": 430,
+      "name": "Gabou",
+      "departement_id": 37,
+      "lat": 14.7667,
+      "lon": -12.8167,
+      "elevation": 45
+    },
+    {
+      "id": 67,
+      "name": "Gade Escale",
+      "departement_id": 7,
+      "lat": 14.7,
+      "lon": -16.1667,
+      "elevation": 35
+    },
+    {
+      "id": 349,
+      "name": "Gae",
+      "departement_id": 31,
+      "lat": 16.3167,
+      "lon": -15.5167,
+      "elevation": 8
+    },
+    {
+      "id": 168,
+      "name": "Gagnick",
+      "departement_id": 16,
+      "lat": 14.05,
+      "lon": -16.2,
+      "elevation": 20
+    },
+    {
+      "id": 194,
+      "name": "Gainthe Kaye",
+      "departement_id": 18,
+      "lat": 14.0333,
+      "lon": -15.6167,
+      "elevation": 28
+    },
+    {
+      "id": 364,
+      "name": "Galoya Toucouleur",
+      "departement_id": 32,
+      "lat": 16.1,
+      "lon": -14.75,
+      "elevation": 16
+    },
+    {
+      "id": 365,
+      "name": "Gamadji Sare",
+      "departement_id": 32,
+      "lat": 16.25,
+      "lon": -15.1667,
+      "elevation": 12
+    },
+    {
+      "id": 304,
+      "name": "Gande",
+      "departement_id": 27,
+      "lat": 15.2,
+      "lon": -16.0833,
+      "elevation": 30
+    },
+    {
+      "id": 179,
+      "name": "Gandiaye",
+      "departement_id": 17,
+      "lat": 14.3333,
+      "lon": -16.2333,
+      "elevation": 20
+    },
+    {
+      "id": 380,
+      "name": "Gandon",
+      "departement_id": 33,
+      "lat": 16.05,
+      "lon": -16.3333,
+      "elevation": 5
+    },
+    {
+      "id": 290,
+      "name": "Gassane",
+      "departement_id": 26,
+      "lat": 15.25,
+      "lon": -15.35,
+      "elevation": 35
+    },
+    {
+      "id": 431,
+      "name": "Gathiary",
+      "departement_id": 37,
+      "lat": 14.7833,
+      "lon": -12.5,
+      "elevation": 48
+    },
+    {
+      "id": 57,
+      "name": "Gawane",
+      "departement_id": 6,
+      "lat": 14.8,
+      "lon": -16.3667,
+      "elevation": 35
+    },
+    {
+      "id": 145,
+      "name": "Gniby",
+      "departement_id": 13,
+      "lat": 14.15,
+      "lon": -15.3667,
+      "elevation": 40
+    },
+    {
+      "id": 20,
+      "name": "Golf Sud",
+      "departement_id": 2,
+      "lat": 14.7878,
+      "lon": -17.4047,
+      "elevation": 10
+    },
+    {
+      "id": 366,
+      "name": "Gollere",
+      "departement_id": 32,
+      "lat": 16.4,
+      "lon": -14.9667,
+      "elevation": 10
+    },
+    {
+      "id": 6,
+      "name": "Gorée",
+      "departement_id": 1,
+      "lat": 14.6667,
+      "lon": -17.4,
+      "elevation": 20
+    },
+    {
+      "id": 129,
+      "name": "Gossas",
+      "departement_id": 11,
+      "lat": 14.4833,
+      "lon": -16.0667,
+      "elevation": 25
+    },
+    {
+      "id": 444,
+      "name": "Goudiry",
+      "departement_id": 38,
+      "lat": 14.18,
+      "lon": -12.7167,
+      "elevation": 70
+    },
+    {
+      "id": 401,
+      "name": "Goudomp",
+      "departement_id": 35,
+      "lat": 12.5667,
+      "lon": -15.3167,
+      "elevation": 25
+    },
+    {
+      "id": 445,
+      "name": "Goumbayel",
+      "departement_id": 38,
+      "lat": 14.3333,
+      "lon": -12.8,
+      "elevation": 65
+    },
+    {
+      "id": 7,
+      "name": "Grand Dakar",
+      "departement_id": 1,
+      "lat": 14.7236,
+      "lon": -17.4456,
+      "elevation": 22
+    },
+    {
+      "id": 8,
+      "name": "Grand Yoff",
+      "departement_id": 1,
+      "lat": 14.7467,
+      "lon": -17.4447,
+      "elevation": 15
+    },
+    {
+      "id": 305,
+      "name": "Guet Ardo",
+      "departement_id": 27,
+      "lat": 15.5,
+      "lon": -16.2333,
+      "elevation": 32
+    },
+    {
+      "id": 9,
+      "name": "Gueule Tapee Fass Colobane",
+      "departement_id": 1,
+      "lat": 14.7028,
+      "lon": -17.45,
+      "elevation": 20
+    },
+    {
+      "id": 269,
+      "name": "Guewoul",
+      "departement_id": 25,
+      "lat": 15.2833,
+      "lon": -16.25,
+      "elevation": 28
+    },
+    {
+      "id": 34,
+      "name": "Guinaw Rail Nord",
+      "departement_id": 4,
+      "lat": 14.77,
+      "lon": -17.395,
+      "elevation": 8
+    },
+    {
+      "id": 35,
+      "name": "Guinaw Rail Sud",
+      "departement_id": 4,
+      "lat": 14.765,
+      "lon": -17.3967,
+      "elevation": 8
+    },
+    {
+      "id": 169,
+      "name": "Guinguineo",
+      "departement_id": 16,
+      "lat": 14.2667,
+      "lon": -15.95,
+      "elevation": 28
+    },
+    {
+      "id": 212,
+      "name": "Guiro Yero Bocar",
+      "departement_id": 19,
+      "lat": 12.85,
+      "lon": -14.9167,
+      "elevation": 25
+    },
+    {
+      "id": 367,
+      "name": "Guédé Chanthier",
+      "departement_id": 32,
+      "lat": 16.2667,
+      "lon": -14.8333,
+      "elevation": 14
+    },
+    {
+      "id": 368,
+      "name": "Guédé Village",
+      "departement_id": 32,
+      "lat": 16.2833,
+      "lon": -14.8667,
+      "elevation": 14
+    },
+    {
+      "id": 11,
+      "name": "HLM",
+      "departement_id": 1,
+      "lat": 14.7178,
+      "lon": -17.4553,
+      "elevation": 18
+    },
+    {
+      "id": 323,
+      "name": "Hamady Hounare",
+      "departement_id": 28,
+      "lat": 15.4167,
+      "lon": -13.65,
+      "elevation": 25
+    },
+    {
+      "id": 10,
+      "name": "Hann Bel-Air",
+      "departement_id": 1,
+      "lat": 14.7289,
+      "lon": -17.41,
+      "elevation": 12
+    },
+    {
+      "id": 152,
+      "name": "Ida Mouride",
+      "departement_id": 14,
+      "lat": 13.95,
+      "lon": -14.8833,
+      "elevation": 45
+    },
+    {
+      "id": 392,
+      "name": "Inor",
+      "departement_id": 34,
+      "lat": 12.9333,
+      "lon": -15.7667,
+      "elevation": 18
+    },
+    {
+      "id": 25,
+      "name": "Jaxaay Parcelles",
+      "departement_id": 3,
+      "lat": 14.8133,
+      "lon": -17.3456,
+      "elevation": 12
+    },
+    {
+      "id": 474,
+      "name": "Joal Fadhiouth",
+      "departement_id": 41,
+      "lat": 14.16,
+      "lon": -16.85,
+      "elevation": 5
+    },
+    {
+      "id": 270,
+      "name": "Kab Gaye",
+      "departement_id": 25,
+      "lat": 15.1833,
+      "lon": -16.4167,
+      "elevation": 25
+    },
+    {
+      "id": 82,
+      "name": "Kael",
+      "departement_id": 8,
+      "lat": 14.9,
+      "lon": -15.9,
+      "elevation": 42
+    },
+    {
+      "id": 146,
+      "name": "Kaffrine",
+      "departement_id": 13,
+      "lat": 14.1,
+      "lon": -15.55,
+      "elevation": 38
+    },
+    {
+      "id": 528,
+      "name": "Kafoutine",
+      "departement_id": 44,
+      "lat": 12.7,
+      "lon": -16.7333,
+      "elevation": 8
+    },
+    {
+      "id": 454,
+      "name": "Kahene",
+      "departement_id": 39,
+      "lat": 13.9833,
+      "lon": -14.3333,
+      "elevation": 42
+    },
+    {
+      "id": 147,
+      "name": "Kahi",
+      "departement_id": 13,
+      "lat": 14.05,
+      "lon": -15.45,
+      "elevation": 36
+    },
+    {
+      "id": 180,
+      "name": "Kahone",
+      "departement_id": 17,
+      "lat": 14.1667,
+      "lon": -16.1,
+      "elevation": 20
+    },
+    {
+      "id": 291,
+      "name": "Kamb",
+      "departement_id": 26,
+      "lat": 15.4167,
+      "lon": -15.1333,
+      "elevation": 38
+    },
+    {
+      "id": 235,
+      "name": "Kandia",
+      "departement_id": 21,
+      "lat": 13.1333,
+      "lon": -14.5667,
+      "elevation": 35
+    },
+    {
+      "id": 236,
+      "name": "Kandiaye",
+      "departement_id": 21,
+      "lat": 13.0833,
+      "lon": -14.6333,
+      "elevation": 35
+    },
+    {
+      "id": 393,
+      "name": "Kandion Mangana",
+      "departement_id": 34,
+      "lat": 12.9667,
+      "lon": -15.7167,
+      "elevation": 18
+    },
+    {
+      "id": 324,
+      "name": "Kanel",
+      "departement_id": 28,
+      "lat": 15.4833,
+      "lon": -13.1667,
+      "elevation": 30
+    },
+    {
+      "id": 271,
+      "name": "Kanene Ndiob",
+      "departement_id": 25,
+      "lat": 15.3,
+      "lon": -16.4,
+      "elevation": 28
+    },
+    {
+      "id": 181,
+      "name": "Kaolack",
+      "departement_id": 17,
+      "lat": 14.15,
+      "lon": -16.0667,
+      "elevation": 18
+    },
+    {
+      "id": 402,
+      "name": "Kaour",
+      "departement_id": 35,
+      "lat": 12.5,
+      "lon": -15.4,
+      "elevation": 25
+    },
+    {
+      "id": 118,
+      "name": "Karang Poste",
+      "departement_id": 10,
+      "lat": 13.6333,
+      "lon": -16.7,
+      "elevation": 3
+    },
+    {
+      "id": 403,
+      "name": "Karantaba",
+      "departement_id": 35,
+      "lat": 12.65,
+      "lon": -15.5,
+      "elevation": 22
+    },
+    {
+      "id": 529,
+      "name": "Kartiack",
+      "departement_id": 44,
+      "lat": 12.7833,
+      "lon": -16.5,
+      "elevation": 12
+    },
+    {
+      "id": 530,
+      "name": "Kataba",
+      "departement_id": 44,
+      "lat": 12.95,
+      "lon": -16.2333,
+      "elevation": 20
+    },
+    {
+      "id": 148,
+      "name": "Kathiotte",
+      "departement_id": 13,
+      "lat": 14.1167,
+      "lon": -15.5167,
+      "elevation": 37
+    },
+    {
+      "id": 490,
+      "name": "Kayar",
+      "departement_id": 42,
+      "lat": 14.9167,
+      "lon": -17.1333,
+      "elevation": 15
+    },
+    {
+      "id": 195,
+      "name": "Kaymor",
+      "departement_id": 18,
+      "lat": 13.8833,
+      "lon": -15.3833,
+      "elevation": 35
+    },
+    {
+      "id": 272,
+      "name": "Kebemer",
+      "departement_id": 25,
+      "lat": 15.3667,
+      "lon": -16.45,
+      "elevation": 30
+    },
+    {
+      "id": 306,
+      "name": "Kelle Gueye",
+      "departement_id": 27,
+      "lat": 15.4667,
+      "lon": -16.3833,
+      "elevation": 30
+    },
+    {
+      "id": 227,
+      "name": "Kerewane",
+      "departement_id": 20,
+      "lat": 12.6667,
+      "lon": -14.2667,
+      "elevation": 50
+    },
+    {
+      "id": 182,
+      "name": "Keur Baka",
+      "departement_id": 17,
+      "lat": 14.1,
+      "lon": -16.15,
+      "elevation": 18
+    },
+    {
+      "id": 196,
+      "name": "Keur Maba Diakhou",
+      "departement_id": 18,
+      "lat": 14.0333,
+      "lon": -15.5667,
+      "elevation": 30
+    },
+    {
+      "id": 197,
+      "name": "Keur Madiabel",
+      "departement_id": 18,
+      "lat": 14,
+      "lon": -15.7167,
+      "elevation": 28
+    },
+    {
+      "id": 198,
+      "name": "Keur Mandongo",
+      "departement_id": 18,
+      "lat": 13.9667,
+      "lon": -15.55,
+      "elevation": 30
+    },
+    {
+      "id": 26,
+      "name": "Keur Massar Nord",
+      "departement_id": 3,
+      "lat": 14.8156,
+      "lon": -17.3333,
+      "elevation": 10
+    },
+    {
+      "id": 27,
+      "name": "Keur Massar Sud",
+      "departement_id": 3,
+      "lat": 14.8056,
+      "lon": -17.3356,
+      "elevation": 10
+    },
+    {
+      "id": 136,
+      "name": "Keur Mboucki",
+      "departement_id": 12,
+      "lat": 14.1167,
+      "lon": -15.8833,
+      "elevation": 36
+    },
+    {
+      "id": 307,
+      "name": "Keur Momar Sarr",
+      "departement_id": 27,
+      "lat": 15.5333,
+      "lon": -15.95,
+      "elevation": 35
+    },
+    {
+      "id": 491,
+      "name": "Keur Moussa",
+      "departement_id": 42,
+      "lat": 14.7333,
+      "lon": -17,
+      "elevation": 45
+    },
+    {
+      "id": 68,
+      "name": "Keur Ngalgou",
+      "departement_id": 7,
+      "lat": 14.6167,
+      "lon": -16.35,
+      "elevation": 32
+    },
+    {
+      "id": 119,
+      "name": "Keur Saloum Diane",
+      "departement_id": 10,
+      "lat": 14.0667,
+      "lon": -16.3,
+      "elevation": 8
+    },
+    {
+      "id": 120,
+      "name": "Keur Samba Gueye",
+      "departement_id": 10,
+      "lat": 14.1167,
+      "lon": -16.5,
+      "elevation": 8
+    },
+    {
+      "id": 58,
+      "name": "Keur Samba Kane",
+      "departement_id": 6,
+      "lat": 14.7833,
+      "lon": -16.3833,
+      "elevation": 35
+    },
+    {
+      "id": 183,
+      "name": "Keur Soocé",
+      "departement_id": 17,
+      "lat": 14.25,
+      "lon": -15.9167,
+      "elevation": 25
+    },
+    {
+      "id": 256,
+      "name": "Kevoye",
+      "departement_id": 23,
+      "lat": 12.5333,
+      "lon": -12.6333,
+      "elevation": 250
+    },
+    {
+      "id": 170,
+      "name": "Khelcom Birane",
+      "departement_id": 16,
+      "lat": 14.1833,
+      "lon": -15.9333,
+      "elevation": 28
+    },
+    {
+      "id": 492,
+      "name": "Khombole",
+      "departement_id": 42,
+      "lat": 14.7667,
+      "lon": -16.7,
+      "elevation": 55
+    },
+    {
+      "id": 260,
+      "name": "Khossanto",
+      "departement_id": 24,
+      "lat": 12.7667,
+      "lon": -11.8833,
+      "elevation": 150
+    },
+    {
+      "id": 432,
+      "name": "Kidira",
+      "departement_id": 37,
+      "lat": 14.4667,
+      "lon": -12.2167,
+      "elevation": 60
+    },
+    {
+      "id": 446,
+      "name": "Koar",
+      "departement_id": 38,
+      "lat": 14.5,
+      "lon": -12.7333,
+      "elevation": 65
+    },
+    {
+      "id": 213,
+      "name": "Kolda",
+      "departement_id": 19,
+      "lat": 12.8833,
+      "lon": -14.95,
+      "elevation": 25
+    },
+    {
+      "id": 447,
+      "name": "Komoti",
+      "departement_id": 38,
+      "lat": 14.3667,
+      "lon": -13.0167,
+      "elevation": 60
+    },
+    {
+      "id": 448,
+      "name": "Kothiary",
+      "departement_id": 38,
+      "lat": 14.4167,
+      "lon": -12.9667,
+      "elevation": 62
+    },
+    {
+      "id": 505,
+      "name": "Koul",
+      "departement_id": 43,
+      "lat": 14.95,
+      "lon": -16.8667,
+      "elevation": 30
+    },
+    {
+      "id": 404,
+      "name": "Koulibantang",
+      "departement_id": 35,
+      "lat": 12.5833,
+      "lon": -15.4833,
+      "elevation": 22
+    },
+    {
+      "id": 228,
+      "name": "Koulinto",
+      "departement_id": 20,
+      "lat": 12.7,
+      "lon": -14.45,
+      "elevation": 42
+    },
+    {
+      "id": 449,
+      "name": "Koulor",
+      "departement_id": 38,
+      "lat": 14.4833,
+      "lon": -12.85,
+      "elevation": 65
+    },
+    {
+      "id": 455,
+      "name": "Koumentoum",
+      "departement_id": 39,
+      "lat": 13.9833,
+      "lon": -14.5333,
+      "elevation": 40
+    },
+    {
+      "id": 153,
+      "name": "Koungheul",
+      "departement_id": 14,
+      "lat": 13.9833,
+      "lon": -14.8,
+      "elevation": 48
+    },
+    {
+      "id": 237,
+      "name": "Kounkané",
+      "departement_id": 21,
+      "lat": 12.9667,
+      "lon": -14.2833,
+      "elevation": 55
+    },
+    {
+      "id": 450,
+      "name": "Koussan",
+      "departement_id": 38,
+      "lat": 14.3167,
+      "lon": -12.95,
+      "elevation": 62
+    },
+    {
+      "id": 464,
+      "name": "Koussanar",
+      "departement_id": 40,
+      "lat": 13.8667,
+      "lon": -14.0833,
+      "elevation": 48
+    },
+    {
+      "id": 419,
+      "name": "Koussy",
+      "departement_id": 36,
+      "lat": 12.6,
+      "lon": -15.5833,
+      "elevation": 22
+    },
+    {
+      "id": 456,
+      "name": "Kouthia Guaydi",
+      "departement_id": 39,
+      "lat": 13.8833,
+      "lon": -14.1833,
+      "elevation": 48
+    },
+    {
+      "id": 457,
+      "name": "Kouthiaba Wolof",
+      "departement_id": 39,
+      "lat": 14.0667,
+      "lon": -14.2167,
+      "elevation": 45
+    },
+    {
+      "id": 251,
+      "name": "Kédougou",
+      "departement_id": 22,
+      "lat": 12.55,
+      "lon": -12.1833,
+      "elevation": 120
+    },
+    {
+      "id": 292,
+      "name": "Labgar",
+      "departement_id": 26,
+      "lat": 15.4833,
+      "lon": -14.9833,
+      "elevation": 40
+    },
+    {
+      "id": 59,
+      "name": "Lambaye",
+      "departement_id": 6,
+      "lat": 14.8333,
+      "lon": -16.4167,
+      "elevation": 38
+    },
+    {
+      "id": 184,
+      "name": "Latmingue",
+      "departement_id": 17,
+      "lat": 14.0833,
+      "lon": -15.9167,
+      "elevation": 25
+    },
+    {
+      "id": 308,
+      "name": "Leona",
+      "departement_id": 27,
+      "lat": 15.5333,
+      "lon": -16.3,
+      "elevation": 30
+    },
+    {
+      "id": 293,
+      "name": "Linguere",
+      "departement_id": 26,
+      "lat": 15.3833,
+      "lon": -15.1167,
+      "elevation": 38
+    },
+    {
+      "id": 238,
+      "name": "Linkering",
+      "departement_id": 21,
+      "lat": 12.8,
+      "lon": -14.2167,
+      "elevation": 60
+    },
+    {
+      "id": 273,
+      "name": "Loro",
+      "departement_id": 25,
+      "lat": 15.25,
+      "lon": -16.3833,
+      "elevation": 28
+    },
+    {
+      "id": 309,
+      "name": "Louga",
+      "departement_id": 27,
+      "lat": 15.6167,
+      "lon": -16.2333,
+      "elevation": 30
+    },
+    {
+      "id": 342,
+      "name": "Lougré Thioly",
+      "departement_id": 30,
+      "lat": 15.7833,
+      "lon": -13.8,
+      "elevation": 22
+    },
+    {
+      "id": 102,
+      "name": "Loul Sessene",
+      "departement_id": 9,
+      "lat": 14.2833,
+      "lon": -16.4833,
+      "elevation": 12
+    },
+    {
+      "id": 154,
+      "name": "Lour Escale",
+      "departement_id": 14,
+      "lat": 13.8667,
+      "lon": -15.0667,
+      "elevation": 42
+    },
+    {
+      "id": 137,
+      "name": "Mabo",
+      "departement_id": 12,
+      "lat": 14,
+      "lon": -15.9167,
+      "elevation": 33
+    },
+    {
+      "id": 83,
+      "name": "Madina",
+      "departement_id": 8,
+      "lat": 14.7833,
+      "lon": -16,
+      "elevation": 38
+    },
+    {
+      "id": 433,
+      "name": "Madina Foulbé",
+      "departement_id": 37,
+      "lat": 15.1,
+      "lon": -12.5167,
+      "elevation": 50
+    },
+    {
+      "id": 369,
+      "name": "Madina Ndiathbé",
+      "departement_id": 32,
+      "lat": 16.05,
+      "lon": -14.9333,
+      "elevation": 16
+    },
+    {
+      "id": 394,
+      "name": "Madina Wandifa",
+      "departement_id": 34,
+      "lat": 12.9,
+      "lon": -15.9167,
+      "elevation": 16
+    },
+    {
+      "id": 155,
+      "name": "Maka Yop",
+      "departement_id": 14,
+      "lat": 14.0167,
+      "lon": -14.9333,
+      "elevation": 45
+    },
+    {
+      "id": 465,
+      "name": "Makacolibantang",
+      "departement_id": 40,
+      "lat": 13.5833,
+      "lon": -13.7167,
+      "elevation": 65
+    },
+    {
+      "id": 162,
+      "name": "Malem Hoddar",
+      "departement_id": 15,
+      "lat": 14.15,
+      "lon": -15.3333,
+      "elevation": 42
+    },
+    {
+      "id": 458,
+      "name": "Malem Niani",
+      "departement_id": 39,
+      "lat": 13.9,
+      "lon": -14.35,
+      "elevation": 44
+    },
+    {
+      "id": 475,
+      "name": "Malicounda",
+      "departement_id": 41,
+      "lat": 14.4167,
+      "lon": -17,
+      "elevation": 18
+    },
+    {
+      "id": 28,
+      "name": "Malika",
+      "departement_id": 3,
+      "lat": 14.8167,
+      "lon": -17.3167,
+      "elevation": 10
+    },
+    {
+      "id": 214,
+      "name": "Mampatim",
+      "departement_id": 19,
+      "lat": 13,
+      "lon": -14.95,
+      "elevation": 28
+    },
+    {
+      "id": 531,
+      "name": "Mangagoulack",
+      "departement_id": 44,
+      "lat": 12.8,
+      "lon": -16.6167,
+      "elevation": 10
+    },
+    {
+      "id": 405,
+      "name": "Mangaroungou Santo",
+      "departement_id": 35,
+      "lat": 12.65,
+      "lon": -15.4167,
+      "elevation": 22
+    },
+    {
+      "id": 420,
+      "name": "Marsassoum",
+      "departement_id": 36,
+      "lat": 12.8333,
+      "lon": -15.9833,
+      "elevation": 15
+    },
+    {
+      "id": 335,
+      "name": "Matam",
+      "departement_id": 29,
+      "lat": 15.66,
+      "lon": -13.255,
+      "elevation": 28
+    },
+    {
+      "id": 275,
+      "name": "Mbacke Cajor",
+      "departement_id": 25,
+      "lat": 15.35,
+      "lon": -16.2167,
+      "elevation": 30
+    },
+    {
+      "id": 84,
+      "name": "Mbacké",
+      "departement_id": 8,
+      "lat": 14.7833,
+      "lon": -15.9167,
+      "elevation": 42
+    },
+    {
+      "id": 171,
+      "name": "Mbadakhoune",
+      "departement_id": 16,
+      "lat": 14.2,
+      "lon": -16.0833,
+      "elevation": 25
+    },
+    {
+      "id": 274,
+      "name": "Mbadiane",
+      "departement_id": 25,
+      "lat": 15.1667,
+      "lon": -16.3333,
+      "elevation": 25
+    },
+    {
+      "id": 121,
+      "name": "Mbam",
+      "departement_id": 10,
+      "lat": 13.8833,
+      "lon": -16.55,
+      "elevation": 5
+    },
+    {
+      "id": 350,
+      "name": "Mbane",
+      "departement_id": 31,
+      "lat": 16.3667,
+      "lon": -15.5,
+      "elevation": 8
+    },
+    {
+      "id": 36,
+      "name": "Mbao",
+      "departement_id": 4,
+      "lat": 14.7567,
+      "lon": -17.3433,
+      "elevation": 10
+    },
+    {
+      "id": 130,
+      "name": "Mbar",
+      "departement_id": 11,
+      "lat": 14.5333,
+      "lon": -16.2333,
+      "elevation": 22
+    },
+    {
+      "id": 506,
+      "name": "Mbayene",
+      "departement_id": 43,
+      "lat": 14.9333,
+      "lon": -16.7667,
+      "elevation": 35
+    },
+    {
+      "id": 310,
+      "name": "Mbediene",
+      "departement_id": 27,
+      "lat": 15.65,
+      "lon": -16.15,
+      "elevation": 32
+    },
+    {
+      "id": 103,
+      "name": "Mbellacadiao",
+      "departement_id": 9,
+      "lat": 14.2167,
+      "lon": -16.5167,
+      "elevation": 10
+    },
+    {
+      "id": 294,
+      "name": "Mbeuleukhe",
+      "departement_id": 26,
+      "lat": 15.15,
+      "lon": -14.9667,
+      "elevation": 35
+    },
+    {
+      "id": 138,
+      "name": "Mbeuleup",
+      "departement_id": 12,
+      "lat": 14.15,
+      "lon": -15.9167,
+      "elevation": 36
+    },
+    {
+      "id": 370,
+      "name": "Mbolo Birane",
+      "departement_id": 32,
+      "lat": 16.15,
+      "lon": -14.8667,
+      "elevation": 15
+    },
+    {
+      "id": 507,
+      "name": "Mboro",
+      "departement_id": 43,
+      "lat": 15.15,
+      "lon": -16.9,
+      "elevation": 20
+    },
+    {
+      "id": 172,
+      "name": "Mboss",
+      "departement_id": 16,
+      "lat": 14.1333,
+      "lon": -16.0667,
+      "elevation": 22
+    },
+    {
+      "id": 295,
+      "name": "Mboula",
+      "departement_id": 26,
+      "lat": 15.5333,
+      "lon": -15.2833,
+      "elevation": 40
+    },
+    {
+      "id": 371,
+      "name": "Mboumba",
+      "departement_id": 32,
+      "lat": 16.35,
+      "lon": -15,
+      "elevation": 12
+    },
+    {
+      "id": 476,
+      "name": "Mbour",
+      "departement_id": 41,
+      "lat": 14.3667,
+      "lon": -16.9667,
+      "elevation": 10
+    },
+    {
+      "id": 12,
+      "name": "Medina",
+      "departement_id": 1,
+      "lat": 14.7,
+      "lon": -17.45,
+      "elevation": 20
+    },
+    {
+      "id": 261,
+      "name": "Medina Baffé",
+      "departement_id": 24,
+      "lat": 12.6833,
+      "lon": -11.95,
+      "elevation": 170
+    },
+    {
+      "id": 215,
+      "name": "Medina El Hadj",
+      "departement_id": 19,
+      "lat": 12.7667,
+      "lon": -14.8833,
+      "elevation": 28
+    },
+    {
+      "id": 21,
+      "name": "Medina Gounass",
+      "departement_id": 2,
+      "lat": 14.7933,
+      "lon": -17.3994,
+      "elevation": 8
+    },
+    {
+      "id": 239,
+      "name": "Medina Gounass",
+      "departement_id": 21,
+      "lat": 14.7933,
+      "lon": -17.3994,
+      "elevation": 8
+    },
+    {
+      "id": 199,
+      "name": "Medina Sabakh",
+      "departement_id": 18,
+      "lat": 13.8333,
+      "lon": -15.4667,
+      "elevation": 35
+    },
+    {
+      "id": 229,
+      "name": "Medina Yoro Foulah",
+      "departement_id": 20,
+      "lat": 12.6833,
+      "lon": -14.5333,
+      "elevation": 42
+    },
+    {
+      "id": 149,
+      "name": "Medinatoul Salam 2",
+      "departement_id": 13,
+      "lat": 14.0667,
+      "lon": -15.6833,
+      "elevation": 36
+    },
+    {
+      "id": 508,
+      "name": "Mekhe",
+      "departement_id": 43,
+      "lat": 15.0833,
+      "lon": -16.75,
+      "elevation": 30
+    },
+    {
+      "id": 509,
+      "name": "Meouane",
+      "departement_id": 43,
+      "lat": 15.0833,
+      "lon": -16.8833,
+      "elevation": 25
+    },
+    {
+      "id": 459,
+      "name": "Mereto",
+      "departement_id": 39,
+      "lat": 13.8667,
+      "lon": -14.05,
+      "elevation": 48
+    },
+    {
+      "id": 510,
+      "name": "Merina Dakhar",
+      "departement_id": 43,
+      "lat": 14.9833,
+      "lon": -16.7333,
+      "elevation": 38
+    },
+    {
+      "id": 13,
+      "name": "Mermoz Sacre Coeur",
+      "departement_id": 1,
+      "lat": 14.7317,
+      "lon": -17.4617,
+      "elevation": 15
+    },
+    {
+      "id": 372,
+      "name": "Mery",
+      "departement_id": 32,
+      "lat": 16.3333,
+      "lon": -15.2,
+      "elevation": 10
+    },
+    {
+      "id": 466,
+      "name": "Missirah",
+      "departement_id": 40,
+      "lat": 14.8667,
+      "lon": -16.0833,
+      "elevation": 40
+    },
+    {
+      "id": 85,
+      "name": "Missirah",
+      "departement_id": 8,
+      "lat": 14.8667,
+      "lon": -16.0833,
+      "elevation": 40
+    },
+    {
+      "id": 262,
+      "name": "Missirah Sirimana",
+      "departement_id": 24,
+      "lat": 12.65,
+      "lon": -12.0667,
+      "elevation": 180
+    },
+    {
+      "id": 156,
+      "name": "Missirah Wadene",
+      "departement_id": 14,
+      "lat": 13.85,
+      "lon": -14.9833,
+      "elevation": 45
+    },
+    {
+      "id": 540,
+      "name": "Mlomp",
+      "departement_id": 45,
+      "lat": 12.6833,
+      "lon": -16.5833,
+      "elevation": 10
+    },
+    {
+      "id": 511,
+      "name": "Mont Rolland",
+      "departement_id": 43,
+      "lat": 14.9833,
+      "lon": -16.95,
+      "elevation": 35
+    },
+    {
+      "id": 434,
+      "name": "Moudery",
+      "departement_id": 37,
+      "lat": 14.8833,
+      "lon": -12.7833,
+      "elevation": 45
+    },
+    {
+      "id": 381,
+      "name": "Mpal",
+      "departement_id": 33,
+      "lat": 15.95,
+      "lon": -16.3,
+      "elevation": 6
+    },
+    {
+      "id": 216,
+      "name": "Médina cherif",
+      "departement_id": 19,
+      "lat": 12.85,
+      "lon": -14.8,
+      "elevation": 28
+    },
+    {
+      "id": 336,
+      "name": "Nabadji Civol",
+      "departement_id": 29,
+      "lat": 15.55,
+      "lon": -13.7833,
+      "elevation": 22
+    },
+    {
+      "id": 69,
+      "name": "Ndakh Sene",
+      "departement_id": 7,
+      "lat": 14.7,
+      "lon": -16.25,
+      "elevation": 35
+    },
+    {
+      "id": 460,
+      "name": "Ndame",
+      "departement_id": 39,
+      "lat": 14,
+      "lon": -14.4833,
+      "elevation": 42
+    },
+    {
+      "id": 276,
+      "name": "Ndande",
+      "departement_id": 25,
+      "lat": 15.3667,
+      "lon": -16.5167,
+      "elevation": 30
+    },
+    {
+      "id": 60,
+      "name": "Ndangalma",
+      "departement_id": 6,
+      "lat": 14.9167,
+      "lon": -16.4167,
+      "elevation": 40
+    },
+    {
+      "id": 325,
+      "name": "Ndendory",
+      "departement_id": 28,
+      "lat": 15.5167,
+      "lon": -13.3333,
+      "elevation": 28
+    },
+    {
+      "id": 185,
+      "name": "Ndiaffaté",
+      "departement_id": 17,
+      "lat": 14.2167,
+      "lon": -15.9667,
+      "elevation": 25
+    },
+    {
+      "id": 477,
+      "name": "Ndiaganio",
+      "departement_id": 41,
+      "lat": 14.5,
+      "lon": -16.8333,
+      "elevation": 20
+    },
+    {
+      "id": 311,
+      "name": "Ndiagne",
+      "departement_id": 27,
+      "lat": 15.4167,
+      "lon": -16.5,
+      "elevation": 28
+    },
+    {
+      "id": 173,
+      "name": "Ndiago",
+      "departement_id": 16,
+      "lat": 14.3167,
+      "lon": -15.95,
+      "elevation": 28
+    },
+    {
+      "id": 104,
+      "name": "Ndiakhar",
+      "departement_id": 9,
+      "lat": 14.3667,
+      "lon": -16.35,
+      "elevation": 18
+    },
+    {
+      "id": 395,
+      "name": "Ndiamalathiel",
+      "departement_id": 34,
+      "lat": 12.8167,
+      "lon": -15.7833,
+      "elevation": 16
+    },
+    {
+      "id": 373,
+      "name": "Ndiandane",
+      "departement_id": 32,
+      "lat": 16.3167,
+      "lon": -15.2833,
+      "elevation": 10
+    },
+    {
+      "id": 22,
+      "name": "Ndiareme Limamoulaye",
+      "departement_id": 2,
+      "lat": 14.7867,
+      "lon": -17.39,
+      "elevation": 8
+    },
+    {
+      "id": 374,
+      "name": "Ndiayene Peindao",
+      "departement_id": 32,
+      "lat": 16.2833,
+      "lon": -15.1,
+      "elevation": 12
+    },
+    {
+      "id": 382,
+      "name": "Ndiebene Gandiol",
+      "departement_id": 33,
+      "lat": 16.0667,
+      "lon": -16.45,
+      "elevation": 4
+    },
+    {
+      "id": 187,
+      "name": "Ndiedieng",
+      "departement_id": 17,
+      "lat": 14.3667,
+      "lon": -16.1333,
+      "elevation": 22
+    },
+    {
+      "id": 131,
+      "name": "Ndiene Lagane",
+      "departement_id": 11,
+      "lat": 14.4667,
+      "lon": -16.2,
+      "elevation": 22
+    },
+    {
+      "id": 493,
+      "name": "Ndieyene Sirakh",
+      "departement_id": 42,
+      "lat": 14.8167,
+      "lon": -16.8,
+      "elevation": 50
+    },
+    {
+      "id": 70,
+      "name": "Ndindy",
+      "departement_id": 7,
+      "lat": 14.6333,
+      "lon": -16.3,
+      "elevation": 32
+    },
+    {
+      "id": 163,
+      "name": "Ndiobéne Samba Lamo",
+      "departement_id": 15,
+      "lat": 14.2833,
+      "lon": -15.4833,
+      "elevation": 40
+    },
+    {
+      "id": 139,
+      "name": "Ndiognick",
+      "departement_id": 12,
+      "lat": 14.05,
+      "lon": -15.8,
+      "elevation": 34
+    },
+    {
+      "id": 105,
+      "name": "Ndiop",
+      "departement_id": 9,
+      "lat": 14.25,
+      "lon": -16.6,
+      "elevation": 10
+    },
+    {
+      "id": 375,
+      "name": "Ndioum",
+      "departement_id": 32,
+      "lat": 16.3667,
+      "lon": -14.65,
+      "elevation": 12
+    },
+    {
+      "id": 164,
+      "name": "Ndioum NGainth",
+      "departement_id": 15,
+      "lat": 14.3167,
+      "lon": -15.35,
+      "elevation": 42
+    },
+    {
+      "id": 86,
+      "name": "Ndioumane",
+      "departement_id": 8,
+      "lat": 14.85,
+      "lon": -15.9667,
+      "elevation": 40
+    },
+    {
+      "id": 186,
+      "name": "Ndiébel",
+      "departement_id": 17,
+      "lat": 14.1833,
+      "lon": -16.2833,
+      "elevation": 18
+    },
+    {
+      "id": 188,
+      "name": "Ndoffane",
+      "departement_id": 17,
+      "lat": 14.3,
+      "lon": -15.9667,
+      "elevation": 25
+    },
+    {
+      "id": 467,
+      "name": "Ndoga Babacar",
+      "departement_id": 40,
+      "lat": 13.5333,
+      "lon": -13.9167,
+      "elevation": 60
+    },
+    {
+      "id": 351,
+      "name": "Ndombo Sandjiry",
+      "departement_id": 31,
+      "lat": 16.4,
+      "lon": -15.3333,
+      "elevation": 8
+    },
+    {
+      "id": 61,
+      "name": "Ndondol",
+      "departement_id": 6,
+      "lat": 14.8,
+      "lon": -16.5,
+      "elevation": 35
+    },
+    {
+      "id": 230,
+      "name": "Ndorna",
+      "departement_id": 20,
+      "lat": 12.55,
+      "lon": -14.4833,
+      "elevation": 42
+    },
+    {
+      "id": 71,
+      "name": "Ndoulo",
+      "departement_id": 7,
+      "lat": 14.7167,
+      "lon": -16.1833,
+      "elevation": 35
+    },
+    {
+      "id": 277,
+      "name": "Ndoyene",
+      "departement_id": 25,
+      "lat": 15.2667,
+      "lon": -16.35,
+      "elevation": 28
+    },
+    {
+      "id": 200,
+      "name": "Ndramé Escale",
+      "departement_id": 18,
+      "lat": 13.9,
+      "lon": -15.4167,
+      "elevation": 35
+    },
+    {
+      "id": 240,
+      "name": "Nemataba",
+      "departement_id": 21,
+      "lat": 12.9167,
+      "lon": -14.5,
+      "elevation": 40
+    },
+    {
+      "id": 468,
+      "name": "Netteboulou",
+      "departement_id": 40,
+      "lat": 13.7333,
+      "lon": -13.5167,
+      "elevation": 60
+    },
+    {
+      "id": 157,
+      "name": "Ngainthe Pathe",
+      "departement_id": 14,
+      "lat": 14.0833,
+      "lon": -15,
+      "elevation": 43
+    },
+    {
+      "id": 150,
+      "name": "Nganda",
+      "departement_id": 13,
+      "lat": 14.25,
+      "lon": -15.6833,
+      "elevation": 40
+    },
+    {
+      "id": 512,
+      "name": "Ngandiouf",
+      "departement_id": 43,
+      "lat": 14.9167,
+      "lon": -16.6833,
+      "elevation": 40
+    },
+    {
+      "id": 478,
+      "name": "Ngaparou",
+      "departement_id": 41,
+      "lat": 14.4667,
+      "lon": -17.0167,
+      "elevation": 12
+    },
+    {
+      "id": 174,
+      "name": "Ngathie Naoudé",
+      "departement_id": 16,
+      "lat": 14.2333,
+      "lon": -16.0333,
+      "elevation": 25
+    },
+    {
+      "id": 201,
+      "name": "Ngayene",
+      "departement_id": 18,
+      "lat": 14.0833,
+      "lon": -15.3833,
+      "elevation": 35
+    },
+    {
+      "id": 106,
+      "name": "Ngayokhémé",
+      "departement_id": 9,
+      "lat": 14.3,
+      "lon": -16.5,
+      "elevation": 12
+    },
+    {
+      "id": 87,
+      "name": "Nghaye",
+      "departement_id": 8,
+      "lat": 14.8167,
+      "lon": -16.0333,
+      "elevation": 38
+    },
+    {
+      "id": 352,
+      "name": "Ngnith",
+      "departement_id": 31,
+      "lat": 16.4833,
+      "lon": -15.5333,
+      "elevation": 6
+    },
+    {
+      "id": 62,
+      "name": "Ngogome",
+      "departement_id": 6,
+      "lat": 14.8667,
+      "lon": -16.45,
+      "elevation": 38
+    },
+    {
+      "id": 72,
+      "name": "Ngohé",
+      "departement_id": 7,
+      "lat": 14.6833,
+      "lon": -16.2,
+      "elevation": 33
+    },
+    {
+      "id": 14,
+      "name": "Ngor",
+      "departement_id": 1,
+      "lat": 14.7567,
+      "lon": -17.5133,
+      "elevation": 10
+    },
+    {
+      "id": 494,
+      "name": "Ngoudiane",
+      "departement_id": 42,
+      "lat": 14.8,
+      "lon": -16.8833,
+      "elevation": 55
+    },
+    {
+      "id": 278,
+      "name": "Ngourane Ouolof",
+      "departement_id": 25,
+      "lat": 15.4167,
+      "lon": -16.3,
+      "elevation": 32
+    },
+    {
+      "id": 63,
+      "name": "Ngoye",
+      "departement_id": 6,
+      "lat": 14.7333,
+      "lon": -16.5667,
+      "elevation": 30
+    },
+    {
+      "id": 479,
+      "name": "Nguekhokh",
+      "departement_id": 41,
+      "lat": 14.55,
+      "lon": -17,
+      "elevation": 15
+    },
+    {
+      "id": 175,
+      "name": "Nguelou",
+      "departement_id": 16,
+      "lat": 14.15,
+      "lon": -15.9667,
+      "elevation": 25
+    },
+    {
+      "id": 480,
+      "name": "Ngueniene",
+      "departement_id": 41,
+      "lat": 14.4167,
+      "lon": -16.8667,
+      "elevation": 18
+    },
+    {
+      "id": 313,
+      "name": "Nguer Malal",
+      "departement_id": 27,
+      "lat": 15.5667,
+      "lon": -16.4,
+      "elevation": 28
+    },
+    {
+      "id": 312,
+      "name": "Ngueune Sarr",
+      "departement_id": 27,
+      "lat": 15.5,
+      "lon": -16.4167,
+      "elevation": 28
+    },
+    {
+      "id": 314,
+      "name": "Nguidile",
+      "departement_id": 27,
+      "lat": 15.5833,
+      "lon": -16.3833,
+      "elevation": 28
+    },
+    {
+      "id": 337,
+      "name": "Nguidjilone",
+      "departement_id": 29,
+      "lat": 15.5,
+      "lon": -14,
+      "elevation": 20
+    },
+    {
+      "id": 406,
+      "name": "Niagha",
+      "departement_id": 35,
+      "lat": 12.55,
+      "lon": -15.5333,
+      "elevation": 20
+    },
+    {
+      "id": 547,
+      "name": "Niaguis",
+      "departement_id": 46,
+      "lat": 12.6333,
+      "lon": -16.2,
+      "elevation": 18
+    },
+    {
+      "id": 513,
+      "name": "Niakhene",
+      "departement_id": 43,
+      "lat": 14.9333,
+      "lon": -16.7167,
+      "elevation": 38
+    },
+    {
+      "id": 231,
+      "name": "Niaming",
+      "departement_id": 20,
+      "lat": 12.6167,
+      "lon": -14.4167,
+      "elevation": 42
+    },
+    {
+      "id": 532,
+      "name": "Niamone",
+      "departement_id": 44,
+      "lat": 12.7167,
+      "lon": -16.3833,
+      "elevation": 15
+    },
+    {
+      "id": 469,
+      "name": "Niani Toucouleur",
+      "departement_id": 40,
+      "lat": 13.8167,
+      "lon": -13.9833,
+      "elevation": 52
+    },
+    {
+      "id": 122,
+      "name": "Niassene",
+      "departement_id": 10,
+      "lat": 14.1,
+      "lon": -16.4333,
+      "elevation": 8
+    },
+    {
+      "id": 252,
+      "name": "Ninéfécha",
+      "departement_id": 22,
+      "lat": 12.5,
+      "lon": -12.2667,
+      "elevation": 200
+    },
+    {
+      "id": 315,
+      "name": "Niomre",
+      "departement_id": 27,
+      "lat": 15.5167,
+      "lon": -16.1667,
+      "elevation": 30
+    },
+    {
+      "id": 202,
+      "name": "Nioro",
+      "departement_id": 18,
+      "lat": 13.75,
+      "lon": -15.7833,
+      "elevation": 30
+    },
+    {
+      "id": 123,
+      "name": "Nioro Alassane Tall",
+      "departement_id": 10,
+      "lat": 14.15,
+      "lon": -16.3,
+      "elevation": 10
+    },
+    {
+      "id": 495,
+      "name": "Notto",
+      "departement_id": 42,
+      "lat": 14.8667,
+      "lon": -17.05,
+      "elevation": 45
+    },
+    {
+      "id": 514,
+      "name": "Notto Gouye Diama",
+      "departement_id": 43,
+      "lat": 14.8667,
+      "lon": -16.8333,
+      "elevation": 45
+    },
+    {
+      "id": 548,
+      "name": "Nyassia",
+      "departement_id": 46,
+      "lat": 12.5833,
+      "lon": -16.3333,
+      "elevation": 15
+    },
+    {
+      "id": 326,
+      "name": "Odobéré",
+      "departement_id": 28,
+      "lat": 15.4,
+      "lon": -13.4,
+      "elevation": 28
+    },
+    {
+      "id": 338,
+      "name": "Ogo",
+      "departement_id": 29,
+      "lat": 15.6167,
+      "lon": -13.7667,
+      "elevation": 22
+    },
+    {
+      "id": 339,
+      "name": "Orefondé",
+      "departement_id": 29,
+      "lat": 15.5833,
+      "lon": -14.05,
+      "elevation": 20
+    },
+    {
+      "id": 327,
+      "name": "Orkadiére",
+      "departement_id": 28,
+      "lat": 15.5833,
+      "lon": -13.3667,
+      "elevation": 28
+    },
+    {
+      "id": 132,
+      "name": "Ouadiour",
+      "departement_id": 11,
+      "lat": 14.5,
+      "lon": -16.1667,
+      "elevation": 25
+    },
+    {
+      "id": 328,
+      "name": "Ouadounde",
+      "departement_id": 28,
+      "lat": 15.5,
+      "lon": -13.55,
+      "elevation": 26
+    },
+    {
+      "id": 15,
+      "name": "Ouakam",
+      "departement_id": 1,
+      "lat": 14.7417,
+      "lon": -17.4983,
+      "elevation": 20
+    },
+    {
+      "id": 296,
+      "name": "Ouarkhokh",
+      "departement_id": 26,
+      "lat": 15.3667,
+      "lon": -14.7,
+      "elevation": 42
+    },
+    {
+      "id": 241,
+      "name": "Ouassadou",
+      "departement_id": 21,
+      "lat": 12.8,
+      "lon": -13.9,
+      "elevation": 65
+    },
+    {
+      "id": 257,
+      "name": "Oubadji",
+      "departement_id": 23,
+      "lat": 12.5667,
+      "lon": -12.5167,
+      "elevation": 220
+    },
+    {
+      "id": 343,
+      "name": "Oudalaye",
+      "departement_id": 30,
+      "lat": 15.85,
+      "lon": -14.1,
+      "elevation": 20
+    },
+    {
+      "id": 421,
+      "name": "Oudoucar",
+      "departement_id": 36,
+      "lat": 12.7833,
+      "lon": -15.8,
+      "elevation": 18
+    },
+    {
+      "id": 541,
+      "name": "Oukout",
+      "departement_id": 45,
+      "lat": 12.5667,
+      "lon": -16.5167,
+      "elevation": 10
+    },
+    {
+      "id": 533,
+      "name": "Oulampane",
+      "departement_id": 44,
+      "lat": 12.9167,
+      "lon": -16.2833,
+      "elevation": 18
+    },
+    {
+      "id": 534,
+      "name": "Ouonck",
+      "departement_id": 44,
+      "lat": 12.9833,
+      "lon": -16.2167,
+      "elevation": 20
+    },
+    {
+      "id": 340,
+      "name": "Ourossogui",
+      "departement_id": 29,
+      "lat": 15.6167,
+      "lon": -13.3167,
+      "elevation": 27
+    },
+    {
+      "id": 176,
+      "name": "Ourour",
+      "departement_id": 16,
+      "lat": 14.25,
+      "lon": -15.8833,
+      "elevation": 30
+    },
+    {
+      "id": 542,
+      "name": "Oussouye",
+      "departement_id": 45,
+      "lat": 12.4833,
+      "lon": -16.55,
+      "elevation": 12
+    },
+    {
+      "id": 242,
+      "name": "Pakour",
+      "departement_id": 21,
+      "lat": 13.0333,
+      "lon": -14.4167,
+      "elevation": 42
+    },
+    {
+      "id": 107,
+      "name": "Palmarin Facao",
+      "departement_id": 9,
+      "lat": 14.0833,
+      "lon": -16.7167,
+      "elevation": 5
+    },
+    {
+      "id": 515,
+      "name": "Pambal",
+      "departement_id": 43,
+      "lat": 15.0167,
+      "lon": -16.8167,
+      "elevation": 28
+    },
+    {
+      "id": 177,
+      "name": "Panal Ouolof",
+      "departement_id": 16,
+      "lat": 14.1667,
+      "lon": -16.1167,
+      "elevation": 22
+    },
+    {
+      "id": 203,
+      "name": "Paos Koto",
+      "departement_id": 18,
+      "lat": 13.8,
+      "lon": -15.5167,
+      "elevation": 33
+    },
+    {
+      "id": 16,
+      "name": "Parcelles Assainies",
+      "departement_id": 1,
+      "lat": 14.7689,
+      "lon": -17.43,
+      "elevation": 10
+    },
+    {
+      "id": 243,
+      "name": "Paroumba",
+      "departement_id": 21,
+      "lat": 13.0833,
+      "lon": -14.6667,
+      "elevation": 35
+    },
+    {
+      "id": 461,
+      "name": "Pass Koto",
+      "departement_id": 39,
+      "lat": 13.8167,
+      "lon": -14.3833,
+      "elevation": 45
+    },
+    {
+      "id": 124,
+      "name": "Passy",
+      "departement_id": 10,
+      "lat": 14.0833,
+      "lon": -16.2833,
+      "elevation": 8
+    },
+    {
+      "id": 232,
+      "name": "Pata",
+      "departement_id": 20,
+      "lat": 12.6667,
+      "lon": -14.35,
+      "elevation": 45
+    },
+    {
+      "id": 108,
+      "name": "Patar",
+      "departement_id": 9,
+      "lat": 14.3333,
+      "lon": -16.5667,
+      "elevation": 12
+    },
+    {
+      "id": 133,
+      "name": "Patar Lia",
+      "departement_id": 11,
+      "lat": 14.4167,
+      "lon": -16.3,
+      "elevation": 18
+    },
+    {
+      "id": 73,
+      "name": "Pattar",
+      "departement_id": 7,
+      "lat": 14.75,
+      "lon": -16.2667,
+      "elevation": 35
+    },
+    {
+      "id": 17,
+      "name": "Patte d'Oie",
+      "departement_id": 1,
+      "lat": 14.725,
+      "lon": -17.4678,
+      "elevation": 15
+    },
+    {
+      "id": 462,
+      "name": "Payar",
+      "departement_id": 39,
+      "lat": 14.0333,
+      "lon": -14.25,
+      "elevation": 45
+    },
+    {
+      "id": 516,
+      "name": "Pekesse",
+      "departement_id": 43,
+      "lat": 14.9667,
+      "lon": -16.5833,
+      "elevation": 45
+    },
+    {
+      "id": 316,
+      "name": "Pete Ouarack",
+      "departement_id": 27,
+      "lat": 15.4667,
+      "lon": -16.15,
+      "elevation": 30
+    },
+    {
+      "id": 37,
+      "name": "Pikine Est",
+      "departement_id": 4,
+      "lat": 14.7678,
+      "lon": -17.4006,
+      "elevation": 8
+    },
+    {
+      "id": 38,
+      "name": "Pikine Nord",
+      "departement_id": 4,
+      "lat": 14.775,
+      "lon": -17.4067,
+      "elevation": 8
+    },
+    {
+      "id": 39,
+      "name": "Pikine Ouest",
+      "departement_id": 4,
+      "lat": 14.77,
+      "lon": -17.4133,
+      "elevation": 8
+    },
+    {
+      "id": 517,
+      "name": "Pire Goureye",
+      "departement_id": 43,
+      "lat": 15.1,
+      "lon": -16.7167,
+      "elevation": 25
+    },
+    {
+      "id": 377,
+      "name": "Podor",
+      "departement_id": 32,
+      "lat": 16.65,
+      "lon": -14.95,
+      "elevation": 8
+    },
+    {
+      "id": 481,
+      "name": "Popenguine",
+      "departement_id": 41,
+      "lat": 14.5167,
+      "lon": -17.0667,
+      "elevation": 25
+    },
+    {
+      "id": 204,
+      "name": "Porokhane",
+      "departement_id": 18,
+      "lat": 13.85,
+      "lon": -15.5833,
+      "elevation": 30
+    },
+    {
+      "id": 496,
+      "name": "Pout",
+      "departement_id": 42,
+      "lat": 14.7667,
+      "lon": -17.0667,
+      "elevation": 40
+    },
+    {
+      "id": 376,
+      "name": "Pété",
+      "departement_id": 32,
+      "lat": 16.3833,
+      "lon": -15.0167,
+      "elevation": 10
+    },
+    {
+      "id": 344,
+      "name": "Ranerou",
+      "departement_id": 30,
+      "lat": 15.3,
+      "lon": -13.9333,
+      "elevation": 25
+    },
+    {
+      "id": 158,
+      "name": "Ribot Escale",
+      "departement_id": 14,
+      "lat": 13.9167,
+      "lon": -15.1,
+      "elevation": 42
+    },
+    {
+      "id": 353,
+      "name": "Richard Toll",
+      "departement_id": 31,
+      "lat": 16.4667,
+      "lon": -15.7,
+      "elevation": 6
+    },
+    {
+      "id": 354,
+      "name": "Ronkh",
+      "departement_id": 31,
+      "lat": 16.35,
+      "lon": -15.7833,
+      "elevation": 6
+    },
+    {
+      "id": 355,
+      "name": "Ross Béthio",
+      "departement_id": 31,
+      "lat": 16.25,
+      "lon": -16.1,
+      "elevation": 5
+    },
+    {
+      "id": 356,
+      "name": "Rosso",
+      "departement_id": 31,
+      "lat": 16.5167,
+      "lon": -15.8167,
+      "elevation": 5
+    },
+    {
+      "id": 46,
+      "name": "Rufisque Est",
+      "departement_id": 5,
+      "lat": 14.7133,
+      "lon": -17.2633,
+      "elevation": 10
+    },
+    {
+      "id": 47,
+      "name": "Rufisque Nord",
+      "departement_id": 5,
+      "lat": 14.7167,
+      "lon": -17.2717,
+      "elevation": 10
+    },
+    {
+      "id": 48,
+      "name": "Rufisque Ouest",
+      "departement_id": 5,
+      "lat": 14.71,
+      "lon": -17.275,
+      "elevation": 8
+    },
+    {
+      "id": 64,
+      "name": "Réfane",
+      "departement_id": 6,
+      "lat": 14.75,
+      "lon": -16.4833,
+      "elevation": 32
+    },
+    {
+      "id": 263,
+      "name": "Sabadola",
+      "departement_id": 24,
+      "lat": 12.7,
+      "lon": -11.9667,
+      "elevation": 160
+    },
+    {
+      "id": 435,
+      "name": "Sadatou",
+      "departement_id": 37,
+      "lat": 14.8667,
+      "lon": -12.3833,
+      "elevation": 50
+    },
+    {
+      "id": 88,
+      "name": "Sadio",
+      "departement_id": 8,
+      "lat": 14.9167,
+      "lon": -16.0833,
+      "elevation": 42
+    },
+    {
+      "id": 297,
+      "name": "Sagata Djolof",
+      "departement_id": 26,
+      "lat": 15.2833,
+      "lon": -15.25,
+      "elevation": 35
+    },
+    {
+      "id": 279,
+      "name": "Sagata Gueth",
+      "departement_id": 25,
+      "lat": 15.2,
+      "lon": -16.45,
+      "elevation": 25
+    },
+    {
+      "id": 165,
+      "name": "Sagna",
+      "departement_id": 15,
+      "lat": 14.1833,
+      "lon": -15.6167,
+      "elevation": 38
+    },
+    {
+      "id": 383,
+      "name": "Saint-Louis",
+      "departement_id": 33,
+      "lat": 16.03,
+      "lon": -16.5,
+      "elevation": 5
+    },
+    {
+      "id": 317,
+      "name": "Sakal",
+      "departement_id": 27,
+      "lat": 15.3333,
+      "lon": -16.5833,
+      "elevation": 25
+    },
+    {
+      "id": 422,
+      "name": "Sakar",
+      "departement_id": 36,
+      "lat": 12.6667,
+      "lon": -15.7167,
+      "elevation": 18
+    },
+    {
+      "id": 217,
+      "name": "Salikegne",
+      "departement_id": 19,
+      "lat": 12.8167,
+      "lon": -14.7167,
+      "elevation": 30
+    },
+    {
+      "id": 159,
+      "name": "Saly Escale",
+      "departement_id": 14,
+      "lat": 14,
+      "lon": -15.2333,
+      "elevation": 40
+    },
+    {
+      "id": 482,
+      "name": "Saly Portudal",
+      "departement_id": 41,
+      "lat": 14.45,
+      "lon": -17.0167,
+      "elevation": 10
+    },
+    {
+      "id": 258,
+      "name": "Salémata",
+      "departement_id": 23,
+      "lat": 12.6,
+      "lon": -12.5833,
+      "elevation": 200
+    },
+    {
+      "id": 23,
+      "name": "Sam Notaire",
+      "departement_id": 2,
+      "lat": 14.7933,
+      "lon": -17.4033,
+      "elevation": 10
+    },
+    {
+      "id": 280,
+      "name": "Sam Yabal",
+      "departement_id": 25,
+      "lat": 15.3333,
+      "lon": -16.3833,
+      "elevation": 30
+    },
+    {
+      "id": 423,
+      "name": "Sama Kanta Peulh",
+      "departement_id": 36,
+      "lat": 12.8,
+      "lon": -15.75,
+      "elevation": 18
+    },
+    {
+      "id": 407,
+      "name": "Samine",
+      "departement_id": 35,
+      "lat": 12.7333,
+      "lon": -15.2833,
+      "elevation": 28
+    },
+    {
+      "id": 424,
+      "name": "San Samba",
+      "departement_id": 36,
+      "lat": 12.7167,
+      "lon": -15.9,
+      "elevation": 16
+    },
+    {
+      "id": 483,
+      "name": "Sandiara",
+      "departement_id": 41,
+      "lat": 14.5333,
+      "lon": -16.7167,
+      "elevation": 22
+    },
+    {
+      "id": 49,
+      "name": "Sangalkam",
+      "departement_id": 5,
+      "lat": 14.7667,
+      "lon": -17.2333,
+      "elevation": 20
+    },
+    {
+      "id": 543,
+      "name": "Santhiaba Manjack",
+      "departement_id": 45,
+      "lat": 12.5167,
+      "lon": -16.6333,
+      "elevation": 10
+    },
+    {
+      "id": 264,
+      "name": "Saraya",
+      "departement_id": 24,
+      "lat": 12.8333,
+      "lon": -11.7833,
+      "elevation": 150
+    },
+    {
+      "id": 218,
+      "name": "Saré Bidji",
+      "departement_id": 19,
+      "lat": 12.9333,
+      "lon": -14.8833,
+      "elevation": 25
+    },
+    {
+      "id": 244,
+      "name": "Saré Coly Sallé",
+      "departement_id": 21,
+      "lat": 12.8167,
+      "lon": -14.4167,
+      "elevation": 45
+    },
+    {
+      "id": 219,
+      "name": "Saré Yoba Diéga",
+      "departement_id": 19,
+      "lat": 12.7167,
+      "lon": -14.9667,
+      "elevation": 25
+    },
+    {
+      "id": 50,
+      "name": "Sebikotane",
+      "departement_id": 5,
+      "lat": 14.75,
+      "lon": -17.15,
+      "elevation": 45
+    },
+    {
+      "id": 329,
+      "name": "Semme",
+      "departement_id": 28,
+      "lat": 15.4667,
+      "lon": -13.7167,
+      "elevation": 24
+    },
+    {
+      "id": 51,
+      "name": "Sendou",
+      "departement_id": 5,
+      "lat": 14.67,
+      "lon": -17.2,
+      "elevation": 8
+    },
+    {
+      "id": 484,
+      "name": "Sessene",
+      "departement_id": 41,
+      "lat": 14.4333,
+      "lon": -16.6333,
+      "elevation": 25
+    },
+    {
+      "id": 189,
+      "name": "Sibassor",
+      "departement_id": 17,
+      "lat": 14.3333,
+      "lon": -16.1833,
+      "elevation": 20
+    },
+    {
+      "id": 18,
+      "name": "Sicap Liberté",
+      "departement_id": 1,
+      "lat": 14.72,
+      "lon": -17.4556,
+      "elevation": 18
+    },
+    {
+      "id": 408,
+      "name": "Simbandi Balanté",
+      "departement_id": 35,
+      "lat": 12.7,
+      "lon": -15.3333,
+      "elevation": 25
+    },
+    {
+      "id": 409,
+      "name": "Simbandi Brassou",
+      "departement_id": 35,
+      "lat": 12.6833,
+      "lon": -15.3167,
+      "elevation": 25
+    },
+    {
+      "id": 485,
+      "name": "Sindia",
+      "departement_id": 41,
+      "lat": 14.6167,
+      "lon": -17,
+      "elevation": 40
+    },
+    {
+      "id": 535,
+      "name": "Sindian",
+      "departement_id": 44,
+      "lat": 12.9167,
+      "lon": -16.15,
+      "elevation": 22
+    },
+    {
+      "id": 245,
+      "name": "Sinthiang Koundara",
+      "departement_id": 21,
+      "lat": 12.75,
+      "lon": -14.1833,
+      "elevation": 65
+    },
+    {
+      "id": 330,
+      "name": "Sinthiou Banambé Banadji",
+      "departement_id": 28,
+      "lat": 15.3833,
+      "lon": -13.65,
+      "elevation": 25
+    },
+    {
+      "id": 451,
+      "name": "Sinthiou Bocar Aly",
+      "departement_id": 38,
+      "lat": 14.5667,
+      "lon": -12.8667,
+      "elevation": 62
+    },
+    {
+      "id": 436,
+      "name": "Sinthiou Fissa",
+      "departement_id": 37,
+      "lat": 14.9167,
+      "lon": -12.65,
+      "elevation": 48
+    },
+    {
+      "id": 470,
+      "name": "Sinthiou Maleme",
+      "departement_id": 40,
+      "lat": 13.6667,
+      "lon": -13.8,
+      "elevation": 58
+    },
+    {
+      "id": 452,
+      "name": "Sinthiou Mamadou Boubou",
+      "departement_id": 38,
+      "lat": 14.6,
+      "lon": -12.9,
+      "elevation": 60
+    },
+    {
+      "id": 125,
+      "name": "Sokone",
+      "departement_id": 10,
+      "lat": 13.8833,
+      "lon": -16.3667,
+      "elevation": 5
+    },
+    {
+      "id": 486,
+      "name": "Somone",
+      "departement_id": 41,
+      "lat": 14.4833,
+      "lon": -17.0333,
+      "elevation": 8
+    },
+    {
+      "id": 126,
+      "name": "Soum",
+      "departement_id": 10,
+      "lat": 13.95,
+      "lon": -16.5167,
+      "elevation": 5
+    },
+    {
+      "id": 536,
+      "name": "Suelle",
+      "departement_id": 44,
+      "lat": 12.85,
+      "lon": -16.1833,
+      "elevation": 20
+    },
+    {
+      "id": 318,
+      "name": "Syer",
+      "departement_id": 27,
+      "lat": 15.6167,
+      "lon": -16.3167,
+      "elevation": 28
+    },
+    {
+      "id": 425,
+      "name": "Sédhiou",
+      "departement_id": 36,
+      "lat": 12.7083,
+      "lon": -15.5567,
+      "elevation": 22
+    },
+    {
+      "id": 140,
+      "name": "Ségré Gatta",
+      "departement_id": 12,
+      "lat": 14.1833,
+      "lon": -15.8333,
+      "elevation": 37
+    },
+    {
+      "id": 74,
+      "name": "Taiba Moutoupha",
+      "departement_id": 7,
+      "lat": 14.7833,
+      "lon": -16.2333,
+      "elevation": 37
+    },
+    {
+      "id": 205,
+      "name": "Taiba Niasséne",
+      "departement_id": 18,
+      "lat": 13.7833,
+      "lon": -15.85,
+      "elevation": 28
+    },
+    {
+      "id": 89,
+      "name": "Taiba Thiékéne",
+      "departement_id": 8,
+      "lat": 14.95,
+      "lon": -16.0667,
+      "elevation": 45
+    },
+    {
+      "id": 471,
+      "name": "Tambacounda",
+      "departement_id": 40,
+      "lat": 13.77,
+      "lon": -13.67,
+      "elevation": 55
+    },
+    {
+      "id": 410,
+      "name": "Tanaff",
+      "departement_id": 35,
+      "lat": 12.7167,
+      "lon": -15.5333,
+      "elevation": 22
+    },
+    {
+      "id": 220,
+      "name": "Tankanto Escale",
+      "departement_id": 19,
+      "lat": 12.95,
+      "lon": -14.9167,
+      "elevation": 25
+    },
+    {
+      "id": 396,
+      "name": "Tankon",
+      "departement_id": 34,
+      "lat": 12.95,
+      "lon": -15.6833,
+      "elevation": 20
+    },
+    {
+      "id": 497,
+      "name": "Tassete",
+      "departement_id": 42,
+      "lat": 14.7167,
+      "lon": -17.0833,
+      "elevation": 40
+    },
+    {
+      "id": 109,
+      "name": "Tattaguine",
+      "departement_id": 9,
+      "lat": 14.35,
+      "lon": -16.3,
+      "elevation": 18
+    },
+    {
+      "id": 518,
+      "name": "Taïba Ndiaye",
+      "departement_id": 43,
+      "lat": 15.05,
+      "lon": -16.8833,
+      "elevation": 25
+    },
+    {
+      "id": 90,
+      "name": "Taïf",
+      "departement_id": 8,
+      "lat": 14.85,
+      "lon": -16.0167,
+      "elevation": 40
+    },
+    {
+      "id": 537,
+      "name": "Tenghori",
+      "departement_id": 44,
+      "lat": 12.8667,
+      "lon": -16.4167,
+      "elevation": 15
+    },
+    {
+      "id": 298,
+      "name": "Tessekere Forage",
+      "departement_id": 26,
+      "lat": 15.8167,
+      "lon": -15.05,
+      "elevation": 45
+    },
+    {
+      "id": 487,
+      "name": "Thiadiaye",
+      "departement_id": 41,
+      "lat": 14.4667,
+      "lon": -16.7,
+      "elevation": 25
+    },
+    {
+      "id": 65,
+      "name": "Thiakhar",
+      "departement_id": 6,
+      "lat": 14.8,
+      "lon": -16.4,
+      "elevation": 38
+    },
+    {
+      "id": 319,
+      "name": "Thiamene",
+      "departement_id": 27,
+      "lat": 15.4167,
+      "lon": -16.25,
+      "elevation": 28
+    },
+    {
+      "id": 299,
+      "name": "Thiamene Passe",
+      "departement_id": 26,
+      "lat": 15.4333,
+      "lon": -15.3833,
+      "elevation": 38
+    },
+    {
+      "id": 190,
+      "name": "Thiare",
+      "departement_id": 17,
+      "lat": 14.2,
+      "lon": -16.2667,
+      "elevation": 18
+    },
+    {
+      "id": 300,
+      "name": "Thiarny",
+      "departement_id": 26,
+      "lat": 15.3,
+      "lon": -15.2333,
+      "elevation": 36
+    },
+    {
+      "id": 40,
+      "name": "Thiaroye Gare",
+      "departement_id": 4,
+      "lat": 14.7578,
+      "lon": -17.3917,
+      "elevation": 8
+    },
+    {
+      "id": 41,
+      "name": "Thiaroye sur Mer",
+      "departement_id": 4,
+      "lat": 14.75,
+      "lon": -17.3833,
+      "elevation": 6
+    },
+    {
+      "id": 110,
+      "name": "Thiaré Ndialgui",
+      "departement_id": 9,
+      "lat": 14.3167,
+      "lon": -16.4667,
+      "elevation": 15
+    },
+    {
+      "id": 301,
+      "name": "Thiel",
+      "departement_id": 26,
+      "lat": 15.25,
+      "lon": -15.05,
+      "elevation": 36
+    },
+    {
+      "id": 281,
+      "name": "Thieppe",
+      "departement_id": 25,
+      "lat": 15.3,
+      "lon": -16.5,
+      "elevation": 28
+    },
+    {
+      "id": 221,
+      "name": "Thietty",
+      "departement_id": 19,
+      "lat": 12.8,
+      "lon": -14.9833,
+      "elevation": 25
+    },
+    {
+      "id": 519,
+      "name": "Thilmakha",
+      "departement_id": 43,
+      "lat": 15.0333,
+      "lon": -16.7167,
+      "elevation": 30
+    },
+    {
+      "id": 341,
+      "name": "Thilogne",
+      "departement_id": 29,
+      "lat": 15.5833,
+      "lon": -13.55,
+      "elevation": 25
+    },
+    {
+      "id": 282,
+      "name": "Thiolom Fall",
+      "departement_id": 25,
+      "lat": 15.25,
+      "lon": -16.4833,
+      "elevation": 28
+    },
+    {
+      "id": 191,
+      "name": "Thiomby",
+      "departement_id": 17,
+      "lat": 14.2667,
+      "lon": -16,
+      "elevation": 25
+    },
+    {
+      "id": 538,
+      "name": "Thionck Essyl",
+      "departement_id": 44,
+      "lat": 12.7,
+      "lon": -16.45,
+      "elevation": 12
+    },
+    {
+      "id": 498,
+      "name": "Thiénaba",
+      "departement_id": 42,
+      "lat": 14.8667,
+      "lon": -16.8,
+      "elevation": 55
+    },
+    {
+      "id": 499,
+      "name": "Thiés Est",
+      "departement_id": 42,
+      "lat": 14.7833,
+      "lon": -16.9167,
+      "elevation": 75
+    },
+    {
+      "id": 500,
+      "name": "Thiés Nord",
+      "departement_id": 42,
+      "lat": 14.795,
+      "lon": -16.93,
+      "elevation": 75
+    },
+    {
+      "id": 501,
+      "name": "Thiés Ouest",
+      "departement_id": 42,
+      "lat": 14.79,
+      "lon": -16.945,
+      "elevation": 75
+    },
+    {
+      "id": 520,
+      "name": "Tivaouane",
+      "departement_id": 43,
+      "lat": 14.95,
+      "lon": -16.8167,
+      "elevation": 28
+    },
+    {
+      "id": 42,
+      "name": "Tivaouane Diacksao",
+      "departement_id": 4,
+      "lat": 14.7833,
+      "lon": -17.4,
+      "elevation": 8
+    },
+    {
+      "id": 52,
+      "name": "Tivaouane Peulh Niagha",
+      "departement_id": 5,
+      "lat": 14.8133,
+      "lon": -17.2833,
+      "elevation": 20
+    },
+    {
+      "id": 75,
+      "name": "Tocky-Gare",
+      "departement_id": 7,
+      "lat": 14.65,
+      "lon": -16.1833,
+      "elevation": 33
+    },
+    {
+      "id": 253,
+      "name": "Tomboroncoto",
+      "departement_id": 22,
+      "lat": 12.7333,
+      "lon": -12.35,
+      "elevation": 150
+    },
+    {
+      "id": 91,
+      "name": "Touba Fall",
+      "departement_id": 8,
+      "lat": 14.85,
+      "lon": -15.8833,
+      "elevation": 42
+    },
+    {
+      "id": 76,
+      "name": "Touba Lappé",
+      "departement_id": 7,
+      "lat": 14.9,
+      "lon": -16.2167,
+      "elevation": 40
+    },
+    {
+      "id": 141,
+      "name": "Touba Mbella",
+      "departement_id": 12,
+      "lat": 14.0333,
+      "lon": -15.85,
+      "elevation": 34
+    },
+    {
+      "id": 92,
+      "name": "Touba Mboul",
+      "departement_id": 8,
+      "lat": 14.8333,
+      "lon": -15.9,
+      "elevation": 42
+    },
+    {
+      "id": 283,
+      "name": "Touba Merina",
+      "departement_id": 25,
+      "lat": 15.2833,
+      "lon": -16.3,
+      "elevation": 30
+    },
+    {
+      "id": 93,
+      "name": "Touba Mosquée",
+      "departement_id": 8,
+      "lat": 14.85,
+      "lon": -15.8833,
+      "elevation": 42
+    },
+    {
+      "id": 502,
+      "name": "Touba Toul",
+      "departement_id": 42,
+      "lat": 14.9333,
+      "lon": -16.95,
+      "elevation": 50
+    },
+    {
+      "id": 127,
+      "name": "Toubacouta",
+      "departement_id": 10,
+      "lat": 13.75,
+      "lon": -16.5,
+      "elevation": 5
+    },
+    {
+      "id": 77,
+      "name": "Toure Mbonde",
+      "departement_id": 7,
+      "lat": 14.8333,
+      "lon": -16.2833,
+      "elevation": 38
+    },
+    {
+      "id": 345,
+      "name": "Velingara",
+      "departement_id": 30,
+      "lat": 15.15,
+      "lon": -14.1167,
+      "elevation": 35
+    },
+    {
+      "id": 246,
+      "name": "Vélingara",
+      "departement_id": 21,
+      "lat": 13.15,
+      "lon": -14.1167,
+      "elevation": 55
+    },
+    {
+      "id": 206,
+      "name": "Wack Ngouna",
+      "departement_id": 18,
+      "lat": 13.95,
+      "lon": -15.4833,
+      "elevation": 33
+    },
+    {
+      "id": 24,
+      "name": "Wakhinane Nimzatt",
+      "departement_id": 2,
+      "lat": 14.7956,
+      "lon": -17.3967,
+      "elevation": 8
+    },
+    {
+      "id": 378,
+      "name": "Walalda",
+      "departement_id": 32,
+      "lat": 16.3,
+      "lon": -15.35,
+      "elevation": 10
+    },
+    {
+      "id": 331,
+      "name": "Wouro Sidy",
+      "departement_id": 28,
+      "lat": 15.45,
+      "lon": -13.6833,
+      "elevation": 24
+    },
+    {
+      "id": 302,
+      "name": "Yang Yang",
+      "departement_id": 26,
+      "lat": 15.4667,
+      "lon": -15.4667,
+      "elevation": 38
+    },
+    {
+      "id": 411,
+      "name": "Yarang Balanté",
+      "departement_id": 35,
+      "lat": 12.6333,
+      "lon": -15.4167,
+      "elevation": 22
+    },
+    {
+      "id": 53,
+      "name": "Yene",
+      "departement_id": 5,
+      "lat": 14.66,
+      "lon": -17.1833,
+      "elevation": 8
+    },
+    {
+      "id": 29,
+      "name": "Yeumbeul Nord",
+      "departement_id": 3,
+      "lat": 14.7989,
+      "lon": -17.3667,
+      "elevation": 8
+    },
+    {
+      "id": 30,
+      "name": "Yeumbeul Sud",
+      "departement_id": 3,
+      "lat": 14.79,
+      "lon": -17.37,
+      "elevation": 8
+    },
+    {
+      "id": 19,
+      "name": "Yoff",
+      "departement_id": 1,
+      "lat": 14.7667,
+      "lon": -17.4933,
+      "elevation": 10
+    },
+    {
+      "id": 549,
+      "name": "Ziguinchor",
+      "departement_id": 46,
+      "lat": 12.56,
+      "lon": -16.27,
+      "elevation": 20
+    },
+    {
+      "id": 437,
+      "name": "tamboura",
+      "departement_id": 37,
+      "lat": 15,
+      "lon": -12.5167,
+      "elevation": 50
+    }
+  ]
+}
